@@ -1,0 +1,15 @@
+flask==3.0.0
+twilio==9.0.0
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-groq==0.2.1
+langchain-huggingface==0.1.0
+sentence-transformers==3.3.0
+faiss-cpu==1.9.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+python-dotenv==1.0.1
+pyngrok==7.2.1
+PyPDF2==3.0.1
+python-pptx==1.0.2
+tiktoken==0.8.0
