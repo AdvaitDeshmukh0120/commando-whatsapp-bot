@@ -101,8 +101,6 @@ Vector store build complete!
 # Interactive mode
 python test_local.py
 
-# Or run automated tests
-python test_local.py --auto
 ```
 
 This lets you verify the RAG pipeline works before connecting WhatsApp.
@@ -181,16 +179,3 @@ Make sure you created `.env` file and added your Groq API key.
 - Check if the `.env` GROQ_API_KEY is valid
 
 ---
-
-## Recording the Demo Video
-
-For your demo video, show:
-
-1. **Starting the bot**: Run `python app.py` and show it connecting
-2. **Basic query**: Ask about products from WhatsApp
-3. **Specific product**: Ask about a specific model (e.g., C3500-24X)
-4. **Context retention**: Ask a follow-up question that requires memory
-5. **Multi-user**: Show a second WhatsApp user (or use the `test_local.py` with `switch` command)
-6. **Reset**: Show the `reset` command clearing history
-
-Tip: Use a screen recorder that captures both your phone (WhatsApp) and your laptop (terminal) side by side.
