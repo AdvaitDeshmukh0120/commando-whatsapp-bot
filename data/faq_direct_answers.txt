@@ -1,0 +1,169 @@
+=== CHEAPEST / MOST AFFORDABLE / BUDGET ===
+
+Q: What is the cheapest switch? What is the most affordable switch? What is the lowest cost switch?
+A: The *E100 Series* is the cheapest and most affordable switch from COMMANDO. Models: E100-5 (5-port Fast Ethernet), E100-8 (8-port Fast Ethernet), E100-5G (5-port Gigabit), E100-8G (8-port Gigabit). These are basic unmanaged switches with NO PoE. Plug-and-play, no configuration needed. Best for simple, low-budget home or small office networks.
+
+Q: What is the cheapest PoE switch?
+A: The cheapest PoE switches are from the *E300 Series* (Scout): E300-4P-2F (4FE PoE, 65W) and E300-4GP-2G (4GE PoE, 65W). For slightly more ports, the *E200 Series* AI PoE switches start from E200-4P-2F (4FE PoE, 65W) and E200-4GP-2G (4GE PoE, 65W).
+
+Q: What is the most expensive / most powerful / highest-tier switch?
+A: The *C3500 Series* (Marshall) is the highest-tier and most powerful switch. It's designed for Data Centers and Core networks. Models: C3500-24X, C3500-24X-2Q (40G uplinks), C3500-24X-2C (100G uplinks). Features: MPLS, BGP, OSPF, stacking, VXLAN. 5-Year warranty available.
+
+Q: What is the fastest switch?
+A: The *C3500-24X-2C* with 100G QSFP28 uplinks is the fastest switch. The *C3000-24X-6Y2C* also offers 25G SFP28 and 100G QSFP28 ports. For Multi-Gig, the *E1100 Series* offers 2.5G ports with 10G SFP+ uplinks.
+
+Q: What is the most powerful gateway? What is the largest gateway?
+A: The *MSG-1200* is the most powerful gateway. It supports up to 1024 APs and 1200 users with 4x2.5G + 2x10G SFP+ ports, 600+ concurrent users, and 100,000 sessions. Ideal for large campuses.
+
+Q: What is the fastest wireless access point?
+A: The *AIRY-AP5000MB* is the fastest at 5000Mbps (Wi-Fi 7, 802.11be). For cloud-managed, the *AIR-AP3600BE* at 3600Mbps (Wi-Fi 7) is the fastest.
+
+Q: Which access point supports the most users?
+A: The *AIR-APO3000AX* and *AIR-APO1200* outdoor APs support up to 128 concurrent users each. For indoor, the *AIR-AP3000AX* supports up to 80 concurrent users.
+
+Q: What is the longest range wireless bridge?
+A: The *AIR-WB900-10K* and *AIR-WB5G-10K-HG* (High Gain) both reach up to 10KM. The AIR-WB5G-10K-HG has 2x16dBi high-gain antennas for maximum range.
+
+=== E2000 vs E200  (SIMILAR NAME CONFUSION) ===
+
+Q: What is the E2000 series? Tell me about E2000. What are E2000 switches?
+A: The *E2000 Series* is a Soldier-tier L2+ MANAGED switch series. It runs SoldierOS L2+ software. It is DIFFERENT from the E200 Series. E2000 models include: E2000-8G-4CF, E2000-16G-4CF, E2000-24G-8CF, E2000-48G-8CF (non-PoE), and E2000-8GP-4CF, E2000-8GP-4SFP, E2000-16GP-4CF, E2000-24GP-8CF (top seller, 450W), E2000-48GP-8CF (600W). Features: DHCP Server, VLAN, QoS, ACL, 802.1x, RADIUS, STP/RSTP/MSTP, IGMP Snooping, Voice VLAN, Surveillance VLAN. Ideal for edge/distribution networks, IP cameras, IP phones, and access points.
+
+Q: What is the E200 series? Tell me about E200.
+A: The *E200 Series* is a Scout-tier UNMANAGED AI-powered PoE switch series. It is DIFFERENT from the E2000 Series. E200 switches have AI features that automatically detect and configure connected devices. Models include: E200-4GP-2G, E200-4GP-2SFP, E200-8GP-2G, E200-8GP-2SFP, E200-8GP-4CF, E200-16GP-3CF, E200-24GP-2SFP, E200-24GP-2G, and more. Launched February 2026.
+
+Q: What is the difference between E2000 and E200?
+A: *E2000* = Managed (Soldier, L2+, SoldierOS, CLI/Web GUI, VLAN, QoS, ACL, security features). *E200* = Unmanaged (Scout, AI-powered, plug-and-play, no configuration). E2000 is higher tier and more feature-rich. E200 is newer with AI auto-detection but no management interface.
+
+=== E1000 vs E100  ===
+
+Q: What is the E1000 series? Tell me about E1000.
+A: The *E1000 Series* is a Scout-tier Gigabit/Fast Ethernet UNMANAGED switch series. Models: E1000-16P-4CF (16FE PoE, 260W), E1000-24P-4CF (24FE PoE, 450W), E1000-8GP-4CF (8GE PoE, 150W), E1000-16GP-4CF (16GE PoE, 260W — top seller), E1000-24GP-4CF (24GE PoE, 450W), E1000-24GP-4SFP (24GE PoE, 4SFP uplinks, 450W), E1000-8SFP-2G (8 SFP fiber), E1000-8X (8x10G SFP+ fiber). E1000 is one of the most popular series.
+
+Q: What is the E100 series? Tell me about E100.
+A: The *E100 Series* is the most basic and cheapest Scout-tier switch series. NO PoE. Models: E100-5 (5FE), E100-8 (8FE), E100-5G (5GE), E100-8G (8GE). Simple plug-and-play for basic networks.
+
+Q: What is the difference between E1000 and E100?
+A: *E1000* = Gigabit/Fast Ethernet with PoE support (up to 450W), SFP uplinks, higher port counts (8-24 ports). *E100* = Basic, NO PoE, only 5 or 8 ports, cheapest option. E1000 is for business networks with PoE devices; E100 is for simple home/small office.
+
+=== E1100 vs E100 ===
+
+Q: What is the difference between E1100 and E100?
+A: *E1100* = Multi-Gig (2.5G) unmanaged switches with 10G SFP+ uplinks, PoE support. Newest series (Feb 2025). *E100* = Basic Fast/Gigabit, NO PoE, cheapest. E1100 is much more advanced and supports higher speeds.
+
+=== E3000 vs E300 ===
+
+Q: What is the difference between E3000 and E300?
+A: *E3000* = Soldier-tier L3 MANAGED routing switches with 10G SFP+ uplinks, OSPF/RIP routing, PoE+. *E300* = Scout-tier UNMANAGED basic switches, Fast/Gigabit Ethernet, budget-friendly. E3000 is enterprise-grade; E300 is for basic connectivity.
+
+=== C3000 vs C3500  ===
+
+Q: What is the difference between C3000 and C3500?
+A: *C3500* (Marshall, L3+) = Highest tier. MPLS, BGP, IS-IS, VXLAN, NVGRE, stacking (VSF), MLAG, Data Center Bridging, MarshallOS. For Core/Data Center. 5-year warranty. *C3000* (Soldier, L3) = Enterprise routing. OSPF, RIP, VRRP, SoldierOS. No MPLS, no VXLAN, no stacking. 3-year warranty. C3500 is more expensive and more powerful.
+
+=== C2000 vs E2000  ===
+
+Q: What is the difference between C2000 and E2000?
+A: Both are Soldier-tier L2+ managed switches running SoldierOS. *C2000* = Heavy-duty with AC+DC dual power supply, PoE+ up to 800W, higher reliability. *E2000* = Standard AC power, PoE+ up to 600W, more affordable. C2000 is built for mission-critical environments; E2000 is for standard enterprise use.
+
+=== IE1000 vs IE3000  ===
+
+Q: What industrial switches do you have? Do you have industrial switches? Tell me about industrial series.
+A: COMMANDO has TWO industrial switch series: (1) *IE1000 Series* (Scout, Unmanaged): IE1000-4GP-2SFP, IE1000-8GP-2SFP. Full PoE/PoE+, 2 SFP uplinks, ruggedized, plug-and-play. (2) *IE3000 Series* (Soldier, L3 Managed Routing): IE3000-8GP-4X, IE3000-24GP-4X, IE3000-8G-4X, IE3000-24G-4X. Full PoE, 4x10G SFP+ uplinks, L3 routing, ruggedized for harsh environments. IE1000 is simpler; IE3000 is enterprise-grade with routing.
+
+Q: What is the difference between IE1000 and IE3000?
+A: *IE1000* = Industrial UNMANAGED (plug-and-play, no config, 2 SFP uplinks). *IE3000* = Industrial MANAGED L3 routing (OSPF, 4x10G SFP+ uplinks, VLANs, QoS, ACL). Both are ruggedized for harsh environments. IE3000 is more powerful and has routing capability.
+
+=== AIRX vs AIRY  ===
+
+Q: What is the difference between AirX and AirY? AirX vs AirY?
+A: *AirX* = Cloud-managed access points with FIT/FAT modes. Works with COMMANDO RouteX Gateway as wireless controller. Supports cloud portal management. Models: AIR-AP3600BE, AIR-AP3000AX, AIR-AP1800AX, AIR-APO3000AX, AIR-APO1200. *AirY* = Standalone or controller-based APs. Full feature set. Models: AIRY-AP5000MB, AIRY-AP3000AX, AIRY-AP1500AX, AIRY-AP1200, AIRY-APO3600MB, AIRY-APO3000AX, AIRY-APO3000MAX, AIRY-APO1200.
+
+Q: What is the difference between AIR-AP3000AX and AIRY-AP3000AX?
+A: *AIR-AP3000AX* (AirX series) = 2976Mbps, Wi-Fi 6, FIT/FAT cloud-managed, works with RouteX controller. *AIRY-AP3000AX* (AirY series) = 3000Mbps, Wi-Fi 6, standalone/controller-based. Both are similar in speed. AIR-AP3000AX has cloud management; AIRY-AP3000AX is standalone.
+
+=== SPECIFIC FEATURE QUESTIONS ===
+
+Q: Which switches support stacking? Does any switch support stacking?
+A: ONLY the *C3500 Series* (Marshall) supports stacking via VSF (Virtual Switch Framework). Models: C3500-24X, C3500-24X-2Q, C3500-24X-2C. No other COMMANDO switch series supports stacking. The C3500 also supports MLAG (Multi-Chassis Link Aggregation) as an alternative to stacking.
+
+Q: Which switches support MPLS?
+A: ONLY the *C3500 Series* (MarshallOS L3+) supports MPLS. Features: LDP, RSVP, FRR, 6PE, L2VPN, L3VPN, VPWS, VPLS. No other series supports MPLS.
+
+Q: Which switches support VXLAN?
+A: ONLY the *C3500 Series* (MarshallOS L3+) supports VXLAN overlay, as well as NVGRE and GENEVE tunnels.
+
+Q: Which switches support BGP?
+A: ONLY the *C3500 Series* (MarshallOS L3+) supports BGP (BGP4 for IPv4, BGP4+ for IPv6).
+
+Q: Which switches support OSPF?
+A: *C3500 Series* (MarshallOS L3+): OSPFv2 and OSPFv3. *C3000 and E3000 Series* (SoldierOS L3): OSPFv2. C2000/E2000 (SoldierOS L2+) do NOT support OSPF.
+
+Q: Which switches support VLAN?
+A: ALL managed switches support VLAN: C3500, C3000, E3000, IE3000, C2000, E2000, E1300. They support port-based VLAN, tag-based VLAN (802.1Q), Voice VLAN (on E2000/C2000), Surveillance VLAN, Protocol VLAN, QinQ. Unmanaged switches (E1100, E1000, IE1000, E300, E200, E100) do NOT support VLAN configuration.
+
+Q: Which switches support PoE? Which switches have PoE?
+A: Most COMMANDO switches have PoE variants. The "P" or "GP" in model names indicates PoE. For example: E2000-24GP-8CF (24-port GE PoE+), E1000-16GP-4CF (16-port GE PoE+), C3000-24GP-4X (24-port GE PoE+). The E100 Series does NOT have PoE. Models without "P" in the name (like E2000-8G-4CF) are non-PoE.
+
+Q: Which switches have 10G ports?
+A: *C3500 Series*: 24x10G SFP+ (core ports). *C3000 Series*: 4x/6x10G SFP+ uplinks. *E3000 Series*: 4x/6x10G SFP+ uplinks plus dedicated 10G models. *IE3000 Series*: 4x10G SFP+ uplinks. *E1100 Series*: 2x10G SFP+ uplinks. *E1000-8X*: 8x10G SFP+. C2000, E2000, E1300, E300, E200, E100 do NOT have 10G.
+
+=== IP CAMERA / PoE DEVICE RECOMMENDATIONS ===
+
+Q: I need a switch for IP cameras. Which switch for IP cameras? Best switch for CCTV? PoE switch for cameras?
+A: For IP cameras, the best options are: (1) *E2000-24GP-8CF* — 24-port Managed, PoE+ 450W, Surveillance VLAN, L2+ features. TOP RECOMMENDATION for cameras. (2) *E1000-24GP-4CF* — 24-port Unmanaged, PoE+ 450W, plug-and-play. Good for simple CCTV setups. (3) *E1000-16GP-4CF* — 16-port Unmanaged, PoE+ 260W. For smaller setups. Do NOT use C3500 for cameras — that's a data center switch and overkill.
+
+Q: I need a switch for IP phones. VoIP switch?
+A: The *E2000 Series* is ideal for IP phones because it has Voice VLAN support. Recommended: E2000-24GP-8CF (24-port, 450W) or E2000-48GP-8CF (48-port, 600W). The C2000 Series also supports Voice VLAN with heavier-duty AC+DC power.
+
+=== COMMON CUSTOMER QUESTIONS ===
+
+Q: Where can I buy COMMANDO products? How to purchase?
+A: COMMANDO products are sold through Authorized Channel Partners (Distributors and Resellers). Find a partner near you at https://www.commandonetworks.com/partners/partner_locator. You can also request a quote at https://www.commandonetworks.com/pricelist or schedule a meeting at https://calendly.com/commandonetworks/.
+
+Q: What is the price? How much does it cost? Pricing?
+A: COMMANDO does not publish prices on their website. For pricing, please contact COMMANDO directly at https://www.commandonetworks.com/pricelist or email info@commandonetworks.com. You can also contact an authorized channel partner for competitive pricing.
+
+Q: How do I get technical support? I have a problem with my switch.
+A: Contact COMMANDO Tech Support via: Email (info@commandonetworks.com), Chat, Phone, WhatsApp, or Remote Support. Available Mon-Sat 12x6. Also check the YouTube channel for troubleshooting videos: https://www.youtube.com/@commandonetworks. Submit a support ticket at https://www.commandonetworks.com/support.
+
+Q: Where can I download firmware, datasheets, or manuals?
+A: Visit the Download Center at https://www.commandonetworks.com/downloads. It has datasheets, CLI Guides, GUI Guides, and firmware for all 124 COMMANDO products.
+
+Q: Do COMMANDO products require a license? Is the software free?
+A: All COMMANDO products come with SOFTWARE LICENSES FREE FOR LIFETIME, including all future upgrades. No recurring license costs. This lowers TCO and increases ROI compared to competitors.
+
+Q: Where is COMMANDO located? Where are the offices?
+A: COMMANDO has offices in 5 locations: USA (Wilmington, Delaware), UAE (Dubai, Burj Al Salam Tower), India (Navi Mumbai, Millennium Business Park), Hong Kong (Tsim Sha Tsui), and China (Shenzhen). Email: info@commandonetworks.com.
+
+Q: How to become a partner? How to become a reseller or distributor?
+A: Apply through the COMMANDO PartnerX Program at https://www.commandonetworks.com/partners/partner_application. Three tiers: Reseller, Distributor, National Distributor. Benefits include exclusive pricing, deal registration, marketing support, training, and priority support.
+
+Q: What is the warranty? How long is the warranty?
+A: COMMANDO offers the WarrantyX Program with two levels: ShieldX (Standard, free with purchase, 2-3 years, RTB replacement 3-7 days) and ShieldX Total (Premium, paid, Next Business Day replacement, 16x7 priority support). C3500 switches can extend to 5-year warranty. All other products up to 3 years. Full warranty only through Authorized Channel Partners.
+
+Q: What certifications or standards do COMMANDO switches comply with?
+A: COMMANDO switches comply with IEEE 802.3 (Ethernet), 802.1Q (VLAN), 802.1D/w/s (STP/RSTP/MSTP), 802.3af/at (PoE/PoE+), 802.3az (Energy Efficient Ethernet), 802.1x (Authentication), 802.3ad (LACP), and more. Switches undergo 48-hour stress tests at fluctuating temperatures with zero packet loss. 6KV lightning protection. Built with high-quality Japanese components.
+
+Q: Do COMMANDO products work with other brands? Compatible with Cisco, HP, Aruba?
+A: Yes. COMMANDO products use industry-standard protocols and are fully compatible with other major networking brands. SFP modules (FiberX) are specifically designed to be multi-vendor compatible with most major brands including Cisco, HP, Juniper, Aruba, and others.
+
+Q: What is COMMANDO MarshallOS vs SoldierOS vs RouteOS?
+A: *MarshallOS* (L3+) = Most advanced, for C3500 series only. Full routing + MPLS + VXLAN + stacking. *SoldierOS* (L2+/L3) = For C3000, E3000, IE3000, C2000, E2000, E1300 series. L2+ or L3 features depending on series. *RouteOS* = For RouteX routers and gateways. SD-WAN, DPI, VPN, wireless controller. All software is FREE for lifetime.
+
+Q: What is new? What new products are launched?
+A: Recent launches: E200 Series AI PoE Switches (Feb 2026), E1100 Series Multi-Gig Switches (Feb 2025). Coming soon: NMS (Network Management System) software, SIEM (Security Information and Event Management) cybersecurity solution. COMMANDO is now trademarked in 175+ countries and exports to 100+.
+
+=== NETWORK DESIGN RECOMMENDATIONS ===
+
+Q: I need to set up a network for a small office. What do you recommend?
+A: For a small office (10-20 users): Switch: *E300-8GP-2SFP* or *E1000-8GP-4CF* (PoE for phones/cameras). Wireless: *AIR-AP3000AX* (80 users, Wi-Fi 6). No gateway needed for small setup — use the router's built-in features.
+
+Q: I need to set up a network for a medium office. What do you recommend?
+A: For a medium office (50-150 users): Gateway: *MSG-150* (128 APs, 150 users). Switch: *E2000-24GP-8CF* (managed, 24-port PoE, 450W). Wireless: 2-4x *AIR-AP3000AX* (Wi-Fi 6). This gives you SD-WAN, DPI, VPN, centralized management.
+
+Q: I need to set up a network for a large enterprise or campus. What do you recommend?
+A: For a large enterprise (200-1000+ users): Gateway: *MSG-400* (512 APs) or *MSG-1200* (1024 APs). Core Switch: *C3500-24X* (10G fiber, stacking). Distribution: *C3000-24GP-4X* or *E3000-24GP-4X* (L3 routing, PoE). Edge: *E2000-24GP-8CF* or *E2000-48GP-8CF* (PoE for devices). Wireless: Multiple *AIR-AP3000AX* or *AIRY-AP5000MB* (Wi-Fi 7).
+
+Q: What do I need for outdoor WiFi coverage?
+A: For outdoor WiFi: *AIRY-APO3000MAX* (IP67, 3000Mbps, 2.5G, most rugged) or *AIR-APO3000AX* (3000Mbps, 128 users, cloud-managed). Power with PoE switch. For connecting distant buildings, use wireless bridges like *AIRY-WB900-8K* (8KM) or *AIR-WB900-10K* (10KM).
