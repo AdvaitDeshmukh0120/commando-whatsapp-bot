@@ -82,7 +82,7 @@ A: *AirX* = Cloud-managed access points with FIT/FAT modes. Works with COMMANDO 
 Q: What is the difference between AIR-AP3000AX and AIRY-AP3000AX?
 A: *AIR-AP3000AX* (AirX series) = 2976Mbps, Wi-Fi 6, FIT/FAT cloud-managed, works with RouteX controller. *AIRY-AP3000AX* (AirY series) = 3000Mbps, Wi-Fi 6, standalone/controller-based. Both are similar in speed. AIR-AP3000AX has cloud management; AIRY-AP3000AX is standalone.
 
-=== SPECIFIC FEATURE QUESTIONS ===
+=== FEATURE  ===
 
 Q: Which switches support stacking? Does any switch support stacking?
 A: ONLY the *C3500 Series* (Marshall) supports stacking via VSF (Virtual Switch Framework). Models: C3500-24X, C3500-24X-2Q, C3500-24X-2C. No other COMMANDO switch series supports stacking. The C3500 also supports MLAG (Multi-Chassis Link Aggregation) as an alternative to stacking.
@@ -116,7 +116,7 @@ A: For IP cameras, the best options are: (1) *E2000-24GP-8CF* — 24-port Manage
 Q: I need a switch for IP phones. VoIP switch?
 A: The *E2000 Series* is ideal for IP phones because it has Voice VLAN support. Recommended: E2000-24GP-8CF (24-port, 450W) or E2000-48GP-8CF (48-port, 600W). The C2000 Series also supports Voice VLAN with heavier-duty AC+DC power.
 
-=== COMMON CUSTOMER QUESTIONS ===
+=== COMMON ===
 
 Q: Where can I buy COMMANDO products? How to purchase?
 A: COMMANDO products are sold through Authorized Channel Partners (Distributors and Resellers). Find a partner near you at https://www.commandonetworks.com/partners/partner_locator. You can also request a quote at https://www.commandonetworks.com/pricelist or schedule a meeting at https://calendly.com/commandonetworks/.
@@ -154,7 +154,6 @@ A: *MarshallOS* (L3+) = Most advanced, for C3500 series only. Full routing + MPL
 Q: What is new? What new products are launched?
 A: Recent launches: E200 Series AI PoE Switches (Feb 2026), E1100 Series Multi-Gig Switches (Feb 2025). Coming soon: NMS (Network Management System) software, SIEM (Security Information and Event Management) cybersecurity solution. COMMANDO is now trademarked in 175+ countries and exports to 100+.
 
-=== NETWORK DESIGN RECOMMENDATIONS ===
 
 Q: I need to set up a network for a small office. What do you recommend?
 A: For a small office (10-20 users): Switch: *E300-8GP-2SFP* or *E1000-8GP-4CF* (PoE for phones/cameras). Wireless: *AIR-AP3000AX* (80 users, Wi-Fi 6). No gateway needed for small setup — use the router's built-in features.
