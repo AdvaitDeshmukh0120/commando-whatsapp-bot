@@ -1,0 +1,2144 @@
+===== PAGE: / =====
+URL: https://www.commandonetworks.com/
+
+NMS SOFTWARE COMING SOON:
+COMMANDO is launching Network Management System (NMS) software suite soon.
+TOP SELLING PRODUCTS
+Source: COMMANDO NETWORKS (1Y)
+TOP SELLING PRODUCTS
+Source: COMMANDO NETWORKS (1Y)
+All
+Switches
+Wireless
+Routers
+Gateways
+Accessories
+Show all
+Top Selling
+Products
+Explore our most popular products, trusted by customers everywhere. From quality craftsmanship to unbeatable value, these are the best. Grab yours now and see why they're top sellers!
+E1000-16GP-4CF
+COMMANDO Scout E1000 16GE Full PoE/PoE+, 2GE+2SFP Uplinks, 260W, Unmanaged Switch
+E2000-24GP-8CF
+COMMANDO Soldier E2000 24GE Full PoE/PoE+, 4GE/4SFP Combo Uplinks, 450W, Managed Switch
+E1000-24GP-4CF
+COMMANDO Scout E1000 24GE Full PoE/PoE+, 2GE+2SFP Uplinks, 450W, Unmanaged Switch
+E300-8GP-2SFP
+COMMANDO Scout E300 8GE Full PoE/PoE+, 2SFP Uplinks, 130W, Unmanaged Switch
+E1000-24GP-4SFP
+COMMANDO Scout E1000 24GE Full PoE/PoE+, 4SFP Uplinks, 450W, Unmanaged Switch
+E300-8GP-2G
+COMMANDO Scout E300 8GE Full PoE/PoE+, 2GE Uplinks, 130W, Unmanaged Switch
+E2000-48GP-8CF
+COMMANDO Soldier E2000 48GE PoE/PoE+, 4GE/4SFP Combo Uplinks, 600W, Managed Switch
+C2000-48GP-8CF
+COMMANDO Soldier C2000 48GE Full PoE/PoE+, 4GE/4SFP Combo, 800W, AC+DC, Managed Switch
+AIR-APO3000AX
+COMMANDO AirX 3000Mbps, 2.4GHz+5GHz 802.11ax, 128 Users, Wi-Fi 6 Cloud Outdoor Access Point
+SFP-SM-1G
+COMMANDO FiberX 1000BASE-LX/LH, SFP, 1310nm, 20km, SMF, DDM, Multi-brand
+Top Selling Products
+Show all
+Switches
+COMMANDO Switches ensure scalable, secure networking for Core to Edge across SMBs and enterprises.
+Wireless
+COMMANDO AirX Wireless offers FIT/FAT Wi-Fi, cloud management, and DPI for 3,200+ apps.
+Routers
+COMMANDO RouteX Routers deliver secure, high-performance routing w/ DPI for all business sizes.
+Gateways
+COMMANDO RouteX delivers secure, scalable routing w/ SD-WAN, DPI, VPN, and cloud management.
+Accessories
+COMMANDO Accessories offer Fiber, Copper, SFPs, PoE, and more - built for reliable integration.
+Switches
+COMMANDO Switches power high-performance networks across all layers—Core, Distribution, and Edge—delivering reliable, scalable, and secure connectivity for SMBs to large enterprises and data centers.
+MANAGED SWITCHES
+C3500 L3+ Series Switches
+Marshall C3500 Series Routing Switches
+C3000 L3 Series Switches
+Soldier C3000 Series Routing Switches
+E3000 L3 Series
+Soldier E3000 Series Routing Switches
+IE3000 L3 Industrial Series
+Soldier IE3000 Series Industrial Routing Switches
+C2000 L2+ Series
+Soldier C2000 Series Managed Switches
+E2000 L2+ Series
+Soldier E2000 Series Managed Switches
+E1300 L2 Smart Managed
+SOLDIER E1300 L2 Smart Managed Switch
+UNMANAGED SWITCHES
+E1100 Series
+SCOUT E1100 Series Multi-GigE Unmanaged Switches
+E1000 Series
+SCOUT E1000 Series Unmanaged Switches
+IE1000 Industrial Series
+SCOUT IE1000 Series Industrial Unmanaged Switches
+E300 Series
+SCOUT E300 Series Unmanaged Switches
+E200 AI Series
+SCOUT E200 Series Unmanaged AI Switches
+E100 Series
+SCOUT E100 Series Unmanaged Switches
+TOP SELLING SWITCHES
+Source: COMMANDO NETWORKS (1Y)
+TOP SELLING SWITCHES
+Source: COMMANDO NETWORKS (1Y)
+Explore more
+Wireless
+COMMANDO AirX Wireless Series delivers a powerful FIT/FAT wireless solution with a cloud-based unified management system, featuring intelligent DPI that supports 3,200+ application protocols.
+Indoor AP
+COMMANDO AirX Wireless Access Points deliver ultra-fast, stable Wi-Fi 6/7 with wide coverage, supporting cloud-managed and FIT/FAT modes for seamless indoor connectivity. Paired with the RouteX Gateway as a multi-service wireless controller, it offers a unified Wi-Fi 6/7 solution with Captive Portal for secure, high-speed access.
+Outdoor AP
+COMMANDO AirX Outdoor Access Points are built for rugged, high-performance environments, delivering ultra-fast and stable Wi-Fi 6/7 with extended coverage. Supporting both cloud-managed and FIT/FAT modes, they ensure seamless connectivity across outdoor spaces. When paired with the RouteX Gateway, they form a robust, unified wireless solution with Captive Portal access, ideal for secure, high-speed outdoor deployments.
+Wireless Bridge
+COMMANDO AirX Wireless Bridges are engineered for rugged, high-performance outdoor environments, offering reliable and ultra-fast wireless connectivity over long distances. Designed to support both point-to-point and point-to-multipoint deployments, these bridges deliver stable, high-bandwidth links across distances of up to 10km. Ideal for industrial sites, campuses, remote offices, and surveillance networks, they ensure seamless and secure wireless coverage even in challenging outdoor conditions, minimizing latency and maximizing uptime.
+TOP SELLING WIRELESS
+Source: COMMANDO NETWORKS (1Y)
+TOP SELLING WIRELESS
+Source: COMMANDO NETWORKS (1Y)
+Explore more
+Routers
+COMMANDO RouteX Routers deliver high-performance wired and wireless routing for SoHo, SMBs, and enterprises, with DPI support for intelligent traffic control and secure, seamless connectivity.
+COMMANDO Wireless Routers are Multifunction Enterprise Routers with Built-in All Networks 4G communication module, with Built-in IEEE 802.11ax/ac/b/g/n/a with backward compatibility for wireless clients, 2.4GHz+5GHz Wireless dual band as per model. It supports intelligent networking (SD-WAN), Multi-WAN Load Balancer, DPI (Deep Packet Inspection) traffic control, online behavior management, multiple authentication methods, firewalls, VPN applications, AC Controllers, fast cloud management platform with captive portal and wireless marketing function and ticketing tool. Based on DPI flow control, it enables online user behavior control and management helping set up customized internet strategy. The integrated AC Controller provides unified management of AirPRO Series APs maximizing utilization and optimizing the network.
+AIR-R3000AX
+COMMANDO AirX, 2976Mbps, 4GE, 32AP/120 Users, SD/Multi WAN, DPI/FW/VPN/WLC, Wi-Fi 6 Cloud Enterprise Router
+AIR-R1200-4G
+COMMANDO AirX, 1200Mbps, 60 Users, 4G LTE Wireless Router
+TOP SELLING ROUTERS
+Source: COMMANDO NETWORKS (1Y)
+TOP SELLING ROUTERS
+Source: COMMANDO NETWORKS (1Y)
+Explore more
+Gateways
+COMMANDO RouteX is a high-performance router with SD-WAN, Multi-WAN, DPI, VPN, Firewall, Cloud Management, and edge-ready intelligence, delivering secure and scalable connectivity for modern networks.
+MSG-150
+COMMANDO RouteX, Multi-Gig 1x2.5G, 5GE, 128AP/150, Multi-Service Cloud Gateway
+MSG-250
+COMMANDO RouteX, Multi-Gig 2x2.5G, 5GE, 256AP/250, Multi-Service Cloud Gateway
+MSG-400
+COMMANDO RouteX, Multi-Gig 6x2.5G, 512AP/400, Multi-Service Cloud Gateway
+MSG-1200
+COMMANDO RouteX, Multi-Gig 4x2.5G, 2x10G SFP+, 1024AP/1200, Multi-Service Cloud Gateway
+TOP SELLING GATEWAYS
+Source: COMMANDO NETWORKS (1Y)
+TOP SELLING GATEWAYS
+Source: COMMANDO NETWORKS (1Y)
+Explore more
+Accessories
+COMMANDO Networking Accessories include Fiber, Copper, SFPs, Media Converters, PoE Devices, Power Supplies, and more - built for reliability and seamless integration.
+SFP Modules
+COMMANDO FiberX SFP’s are Multi-vendor and has advance compatibility with most major brands in the market.
+Media Converters
+Single/Multi Mode, Single/Dual Fiber, Fast and Gigabit Ethernet Fiber Media Conveters
+Copper Patch Cables
+COMMANDO CopperX Patch Cables deliver high-speed, pure copper connectivity with PoE support
+RJ45 Connectors
+COMMANDO CopperX RJ45 Connectors ensure superior performance, durability, and seamless connectivity across all networks.
+RJ45 Couplers
+COMMANDO MetalX RJ45 Coupler a compact, shielded solution for 10G high-speed, interference-free Ethernet extension up to 100m.
+Patch Panels
+COMMANDO MetalX Cat6 Patch Panels delivers reliable Gigabit performance in a durable 1U metal design.
+Fiber Patch Panels
+COMMANDO FiberX Patch Panels – Heavy-duty, high-performance fiber connectivity with SC/LC APC/UPC options, fully loaded for seamless rack deployment.
+PoE Injectors & Adapters
+Active/Passive Injectors, IEEE802.3af/at 15.4W, 30W PoE/PoE+ Injectors and AC/DC Adaptors
+Fiber Patch Cables
+COMMANDO FiberX Patch Cables deliver high-speed, low-latency connectivity with single-mode & multimode options
+DAC/AOC Cables
+COMMANDO DAC and AOC Cables deliver high-speed, low-latency connectivity for data centers
+PLC Splitter
+COMMANDO FiberX PLC Splitters deliver efficient, low-loss optical signal distribution for FTTH
+Fiber Pigtails
+High-performance, low-loss fiber connections built for speed and reliability. Perfect for FTTH, data centers, and mission-critical networks.
+Power Supplies
+COMMANDO PowerX DIN Rail Power Supply series provides reliable, efficient, and stable power for industrial networking environments. Built for COMMANDO Industrial Switches, it offers high efficiency, strong safety protections, and rugged long-term performance.
+TOP SELLING ACCESSORIES
+Source: COMMANDO NETWORKS (1Y)
+TOP SELLING ACCESSORIES
+Source: COMMANDO NETWORKS (1Y)
+Explore more
+Our Partners
+Explore our most popular products, trusted by customers everywhere.
+News & Events
+NMS SOFTWARE COMING SOON
+COMMANDO is launching Network Management System (NMS) software suite soon.
+Feb 23, 2026
+SIEM SOFTWARE COMING SOON
+COMMANDO is launching Security Information and Event Management (SIEM) Cybersecurity Solution soon.
+Feb 23, 2026
+EXPORTING 100+ COUNTRIES
+COMMANDO is global networking brand — exported to 100+ countries...
+Feb 23, 2026
+NEW LAUNCH AI SWITCHES
+COMMANDO Launches Scout E200 Series AI PoE Switches w/ market beating prices...Key Features &amp
+Feb 23, 2026
+REGISTERED IN 175+ COUNTRIES
+COMMANDO is trademarked in 175+ countries worldwide including European Union.
+Mar 6, 2025
+NEW LAUNCH MULTI-GIG SWITCH
+COMMANDO Launches Scout E1100 Series Multi-GigE Switches w/ 10G SFP+ Uplinks.E1100-5M-2XCOMMANDO Scout E1100 5x2.5G, 2x10G SFP+ Uplinks, Multi-Gig Unmanaged Switch&nbsp
+Feb 18, 2025
+Explore more
+Business Demands to be Smarter
+Save time and get more known and done by using COMMANDO mobile app. Find prices, product details, manage stock, set your selling prices for your team, do market analysis - see what's selling hot and what's not and a lot more - all on COMMANDO mobile app Available on all major app stores. Download Now.
+Download on the
+App Store
+Get it on
+Google Play
+Explore it on
+AppGallery
+Get it for
+Desktop
+
+
+===== PAGE: /company/about_us =====
+URL: https://www.commandonetworks.com/company/about_us
+
+About Us
+COMMANDO is a technology company focused on research and development in leading-edge technologies in networking. It develops, manufactures, and sells networking equipment worldwide.
+COMMANDO has keen focus on solving business challenges. It offers innovative technology in networking and connectivity for small businesses, medium to large enterprises, data centers and service providers. It develops Internet Working Operating System (iOS), Firmware, Artificial Intelligence (AI) Software and Cloud Infrastructure for its networking gears. It draws and designs PCBs (Printed Circuit Boards) for networking technology products such as Switching, Routing, Wireless and more.
+The product portfolio focuses:
+Switching
+Wireless
+Routing
+Gateways
+Network Accessories
+COMMANDO is committed to technology that makes connectivity simpler, flexible, affordable, and more interoperable. COMMANDO MarshallOS, SoldierOS and RouteOS iOS Software provide solid foundation for the network and are designed to meet the challenges of next generation Enterprise, Data Center, Metro and HCI (Hyper-Converged Infrastructure). COMMANDO iOS creates resilient infrastructure at most cost-efficient standard. All COMMANDO products come with Software licenses inbuilt and are free for lifetime including any future upgrades - making users focus on their core business and stay worry-free on license expiry and recurring renewal expenses, thus lowering TCO and significantly increasing ROI.
+COMMANDO is registered trademarked in more than 150+ countries including European Union, UK, Saudi Arabia, and United Arab Emirates and many more. COMMANDO distributes its product worldwide through its channel partners with it clientele including local and international distributors.
+At COMMANDO, technology is at the heart of all that is done. The leadership is powered by passion to maintain this focus and drives the commitment to delivering products that brings growth to businesses and connect the unconnected while bringing the purpose and values to the core of daily business activities. COMMANDO aims to achieve its goal through extensive growth game-plan, making sharper portfolio choices, focusing on technology, customer-first, wow-services strategy, and strengthening capabilities with strategic partnerships worldwide.
+
+
+===== PAGE: /switches =====
+URL: https://www.commandonetworks.com/switches
+
+Loading...
+
+
+===== PAGE: /switches/C3500 =====
+URL: https://www.commandonetworks.com/switches/C3500
+
+Loading...
+
+
+===== PAGE: /switches/C3000 =====
+URL: https://www.commandonetworks.com/switches/C3000
+
+Loading...
+
+
+===== PAGE: /switches/E3000 =====
+URL: https://www.commandonetworks.com/switches/E3000
+
+Loading...
+
+
+===== PAGE: /switches/E1300 =====
+URL: https://www.commandonetworks.com/switches/E1300
+
+Loading...
+
+
+===== PAGE: /switches/IE3000 =====
+URL: https://www.commandonetworks.com/switches/IE3000
+
+Loading...
+
+
+===== PAGE: /switches/C2000 =====
+URL: https://www.commandonetworks.com/switches/C2000
+
+Loading...
+
+
+===== PAGE: /switches/E2000 =====
+URL: https://www.commandonetworks.com/switches/E2000
+
+Loading...
+
+
+===== PAGE: /switches/E1100 =====
+URL: https://www.commandonetworks.com/switches/E1100
+
+Loading...
+
+
+===== PAGE: /switches/E1000 =====
+URL: https://www.commandonetworks.com/switches/E1000
+
+Loading...
+
+
+===== PAGE: /switches/IE1000 =====
+URL: https://www.commandonetworks.com/switches/IE1000
+
+Loading...
+
+
+===== PAGE: /switches/E300 =====
+URL: https://www.commandonetworks.com/switches/E300
+
+Loading...
+
+
+===== PAGE: /switches/E200 =====
+URL: https://www.commandonetworks.com/switches/E200
+
+Loading...
+
+
+===== PAGE: /switches/E100 =====
+URL: https://www.commandonetworks.com/switches/E100
+
+Loading...
+
+
+===== PAGE: /wireless =====
+URL: https://www.commandonetworks.com/wireless
+
+Loading...
+
+
+===== PAGE: /routers =====
+URL: https://www.commandonetworks.com/routers
+
+Loading...
+
+
+===== PAGE: /gateways =====
+URL: https://www.commandonetworks.com/gateways
+
+Loading...
+
+
+===== PAGE: /accessories =====
+URL: https://www.commandonetworks.com/accessories
+
+Loading...
+
+
+===== PAGE: /accessories/sfp_modules =====
+URL: https://www.commandonetworks.com/accessories/sfp_modules
+
+Loading...
+
+
+===== PAGE: /accessories/media_converters =====
+URL: https://www.commandonetworks.com/accessories/media_converters
+
+Loading...
+
+
+===== PAGE: /accessories/copper_patch_cables =====
+URL: https://www.commandonetworks.com/accessories/copper_patch_cables
+
+Loading...
+
+
+===== PAGE: /accessories/fiber_patch_cables =====
+URL: https://www.commandonetworks.com/accessories/fiber_patch_cables
+
+Loading...
+
+
+===== PAGE: /accessories/poe_injectors =====
+URL: https://www.commandonetworks.com/accessories/poe_injectors
+
+Loading...
+
+
+===== PAGE: /accessories/dac_aoc_cables =====
+URL: https://www.commandonetworks.com/accessories/dac_aoc_cables
+
+Loading...
+
+
+===== PAGE: /warranty =====
+URL: https://www.commandonetworks.com/warranty
+
+COMMANDO WarrantyX Program
+COMMANDO provides two levels of Global Warranty and Support — ShieldX (Standard Warranty) for dependable baseline coverage and ShieldX Total for mission-critical performance with minimal downtime.
+Contact sales
+COMMANDO WarrantyX Program
+COMMANDO provides two levels of Global Warranty and Support —
+ShieldX
+(Standard Warranty) for dependable baseline coverage and
+ShieldX Total
+for mission-critical performance with minimal downtime.
+ShieldX
+— This is Standard Warranty and ensures your network stays protected and supported worldwide.
+ShieldX Total
+— delivers premium, high-performance support services designed to minimize downtime and keep your network running at peak efficiency. Available exclusively through COMMANDO's authorized partners.
+Warranty Summary Table
+The table below highlights the coverage duration for each product category under
+ShieldX
+and
+ShieldX Total
+coverage including applicable charges when purchased through COMMANDO Authorized Channel Partners.
+Category
+Series
+Quick Comparison
+COMMANDO provides two levels of global warranty and support — Standard Warranty for dependable baseline coverage
+ShieldX
+and
+ShieldX Total
+Services for mission-critical performance with minimal downtime.
+Benefits
+ShieldX
+(Standard Warranty)
+ShieldX Total
+Hardware Replacement
+Full Warranty Term
+Full Warranty Term
+Replacement Speed
+3-7 Business Days (RTB)
+Next Business Day or 12-Hour Delivery*
+Replacement Scope
+Global RTB (Return-to-Base)
+Global Advance Hardware Replacement (AHR) with standby unit option
+Hardware Type
+New or Refurbished Equivalent
+Priority Replacement - New or Top-Grade Certified Units
+Technical Support
+12x6 Basic Troubleshooting & Configuration
+16x7 Priority Access to Expert TAC
+Software Upgrades
+Free Lifetime (minor & major)
+Free Lifetime (minor & major)
+Support Channels
+Chat, Email, Phone, Remote Support (Mon-Sat, 12×6)
+Priority Support Channels, Video Assistance, and Fast-Track Escalation Handling
+AI Self-Service Bot
+24×7 Access
+24×7 Access
+Cost
+Included with purchase
+Paid - Highly-worthy for mission-critical uptime
+Ideal For
+Standard operations & SMB needs
+Mission-critical operations
+*In regions where COMMANDO, affiliates, or authorized distributors operate.
+Warranty Exclusions
+Here's a
+Warranty Exclusions Table
+for COMMANDO networking products.
+Category
+Not Covered Under Warranty
+Switches
+Physical damage due to mishandling, accidents, or drops
+Damage from unauthorized repairs, modifications, or third-party firmware
+Corrosion or liquid damage
+Damage from improper electrical supply, lightning, or surge without surge protection
+Cosmetic damage (scratches, dents) not affecting functionality
+Wireless
+Damage from incorrect mounting or installation
+Antenna breakage or wear due to misuse
+Environmental damage (heat, humidity, dust) outside rated conditions
+Firmware tampering or unsupported third-party firmware
+Routers & Gateways
+Misuse or operation outside product specifications
+Damage from improper configuration or unsupported accessories
+Lightning or surge damage without proper grounding
+Unauthorized hardware or software modifications
+Network Accessories
+Wear and tear from normal use (e.g., cable bending, connector wear)
+Damage due to pulling, crushing, or cutting
+Fiber connector scratches, contamination, or breakage
+Use with incompatible devices or exceeding rated specs
+All Categories
+Consumables or expendable parts
+Products with altered or removed serial numbers
+Loss or damage during transportation not arranged by manufacturer
+Software configuration issues caused by customer changes
+Theft, fire, flood, or natural disasters
+Misuse Prevention & Compliance
+Genuine Fault Requirement
+– Warranty replacement is provided only for confirmed manufacturing defects after technical verification by COMMANDO or its authorized service centers.
+Mandatory Troubleshooting & Approval
+– All warranty claims require completion of COMMANDO-prescribed troubleshooting steps. Customer refusal to cooperate voids the claim.
+Advance Replacement Eligibility
+– AHR is provided only for eligible products/customers and after technical validation.
+Condition of Returned Units
+– Products must be in original, untampered condition with no signs of misuse, modification, accidental damage, liquid ingress, or non-COMMANDO repair.
+Serial Number & Proof of Purchase
+– Serial number must match COMMANDO's records and be accompanied by valid proof of purchase from an authorized source.
+Exclusion of Cosmetic or Minor Issues
+– Cosmetic damage, scratches, and other non-performance-affecting issues are excluded.
+Fraud Prevention
+– Submitting counterfeit products, altered serial numbers, or unrelated faulty units will result in permanent warranty denial and possible legal action.
+Repeat Failures Audit
+– Multiple RMAs for the same customer/site may trigger an audit and suspension until misuse is ruled out.
+Customer Shipping Responsibility
+– For RTB claims, customers must securely pack and ship the unit to COMMANDO's designated service point. Transit damage from poor packing is not covered.
+Final Authority
+– COMMANDO's decision on approval, denial, or replacement method is final and binding.
+NOTE:
+Full Warranties are available on purchases through COMMANDO Authorized Channel Partners.
+Non-channel and online purchases carry max 1-Year Warranty at discretion of COMMANDO.
+All RMAs are at the sole discretion of COMMANDO.
+The Warranties are generally applied Globally; however, it may differ for certain regions, consult with COMMANDO or its Authorized Channel Partner for confirmation.
+COMMANDO reserves the right to interpret any warranty term, condition, or implication exclusively and conclusively.
+COMMANDO reserves the right to reject or deny replacement due to any non-compliance with the warranty policy or RMA process.
+This policy may be updated without prior notice. The latest version available on COMMANDO's official channels will apply.
+We're here for you
+Contact COMMANDO Support
+Contact us online through email and get support from an expert. Support is also available on your mobile device through the COMMANDO Business App.
+Contact Sales
+
+
+===== PAGE: /support =====
+URL: https://www.commandonetworks.com/support
+
+Having
+problems?
+Issue/Query/Remarks
+*
+0
+/
+1000
+0
+/
+1000
+characters
+COMMANDO YouTube Channel
+Have you checked for solution on our YouTube Channel?
+Yes
+No
+Steps / troubleshooting you already tried
+*
+0
+/
+1000
+0
+/
+1000
+characters
+Select the product(s) you reporting issue with *
+Upload product label and photos showing issue
+*
+Click to upload or drag and drop
+Maximum file size:
+5 MB
+Accepted formats:
+.pdf,.jpeg,.jpg
+Country
+State
+City
+Primary number
+*
+WhatsApp number
+Landline number
+Reset
+Submit Form
+
+
+===== PAGE: /partners/partner_program =====
+URL: https://www.commandonetworks.com/partners/partner_program
+
+COMMANDO PartnerX Program
+Joining COMMANDO PartnerX Program empowers partners with variety of financial incentives, tools, technology, and support to accelerate sales and business growth.
+Become a Channel Partner
+View our Partners
+Overview
+Partner Benefits
+Partner Requirements
+At COMMANDO, we believe true growth happens when we grow together. That’s why we created the PartnerX Channel Program - a cutting-edge channel initiative designed to scale, maximize profitability, eliminate inefficiencies, and empower partners with unmatched value
+PartnerX is a structured three-tier partnership program comprising
+Reseller
+,
+Distributor
+, and
+National Distributor
+. Designed for clarity and scale, PartnerX ensures well-defined partner roles, streamlined engagement with COMMANDO, faster go-to-market execution across regions, and enhanced profitability at every level of the channel.
+Channel Partners are progressively recognized and rewarded based on their commitment, performance and collaboration.
+Why Join PartnerX?
+Partner Benefits and Advantages
+PartnerX Channel Program is designed to empower you compete, win, and grow faster. As a PartnerX channel member, you gain access to the highest privileges—best prices, exclusive product access, priority technical support, sales and marketing enablement, and growth resources—empowering you to deliver greater value to your customers while building long-term, trusted partnerships with COMMANDO. PartnerX gives you a decisive competitive edge and accelerates your go-to-market success.
+Price Privileges & Margins
+Channel Partners receive exclusive partner-only pricing. With fewer distribution layers and minimized intermediaries, partners benefit from lower overall costs, enabling them to offer competitive pricing without sacrificing margins.
+Deal Registration & Price Protection
+Deal registration ensures protection of business opportunities. Additionally, COMMANDO offers 30-day price protection to safeguard partner commitments against market price fluctuations.
+Market Protection & New Opportunities
+COMMANDO maintains a controlled and limited partner ecosystem to ensure fair market access. Reduced partner overcrowding provides better regional control, improved margins, and long-term sustainability.
+Incentive Program
+Partners gain access to exclusive incentive programs including trade discounts, sales performance incentives (SPIFs), market development funds (MDF), cooperative marketing funds, channel rebates, and deal-based incentives.
+Marketing & Lead Generation Support
+Partners are supported with marketing collaterals, campaigns, MDF funding, and brand visibility initiatives. COMMANDO also generates leads through its website, digital campaigns, telemarketing, and industry events.
+New Product Launch Priority
+Partners receive first-to-market access to newly launched products and technologies capitalizing on market excitement —putting you ahead of competitors before the market catches up. Early access allows you to capitalize on launch momentum, lead with innovation, win high-value opportunities, and secure early customer commitments. By offering the newest solutions first, you strengthen differentiation, accelerate deal closures, and drive higher revenue and margins.
+Credibility & Trust (Brand Power)
+Partnering with COMMANDO puts revenue and credibility on your side. As a COMMANDO Channel Partner, you leverage a globally trademarked brand registered in 175+ countries and actively selling in 100+ markets worldwide — giving you instant market acceptance. With authorized access to COMMANDO branding, intellectual property, and proprietary assets, you differentiate faster, build buyer confidence, and close deals more efficiently. The result: bigger opportunities, stronger margins, faster sales cycles, and a clear advantage over competitors.
+Priority Support
+Partners receive priority technical and non-technical support including pre-sales, post-sales, extended-hour support, and assistance for enterprise and government tenders including Manufacturer Authorization Forms (MAF).
+Partner Portal & Sales Tools
+Access to the Partner Portal provides comprehensive resources such as pricing tools, datasheets, certifications, marketing materials, deal registration, and sales enablement tools to support efficient selling.
+Training and Certification
+Partners are offered free or discounted technical and sales training programs along with certifications. These enhance partner expertise, market credibility, and solution-selling capability.
+Credit Facility & Payment Flexibility
+Eligible partners may be offered credit facilities or flexible payment terms to scale faster with confidence. Based on transaction history, volumes, and performance, COMMANDO may offer flexible payment terms or credit facilities—helping improve cash flow, reduce working capital pressure, and close larger, high-value deals. This flexibility empowers partners to serve customers better, win more business, and build stronger, long-term customer relationships.
+Co-Development & Customization
+Partners can participate in product co-development by providing market feedback and requirements. COMMANDO supports customization and on-demand product development to meet regional and customer-specific needs.
+Analytics & Market Insights
+Partners gain access to data-driven analytics offering insights into regional demand, product performance, and market trends to enable informed decision-making.
+Partner Eligibility and Requirements
+COMMANDO Partners must possess the necessary expertise, market reach, and operational capabilities to effectively distribute COMMANDO products. Partners must demonstrate the ability to deliver value to COMMANDO Channel Partner Program and customers through specializations and certifications, participate in continuous learning, and meet sales and technical criteria. Please connect with your sales rep with us to guide you through to our channel team for Eligibility & Requirements for the role you’re interested in. Here's reference for Distributor.
+Parameters
+Distributor
+General Requirements
+Existing Distributor of any reputed networking / IT brand
+Focus on ICT
+Strong distribution channel, marketing, networking, and collaboration capability
+Possess business, technical, and financial acumen to stock large volumes
+Prior networking product sales experience and market exposure
+Proactive and engaging
+Registered Legal Entity
+Business Website and Email
+Sales Revenue
+Yearly Sales Milestone: $$
+Partnership Eligibility: Single $ order or $ cumulative in last 90 days.
+Min 50% Sales revenue from Switch category
+Marketing
+Participate actively in Marketing activities
+Integrate COMMANDO on company website, email, and other platforms
+Conduct Events/Seminar/Webinar/Promotional activities for local IT Community
+Technical Expertise
+Product Portfolio Training: 4
+COMMANDO Sales Certification: 2
+COMMANDO Tech Certification: 2
+Min Certification: 4
+Team
+Dedicated COMMANDO team. with min 4 members - 2-Outdoor and 2-Indoor
+One designated COMMANDO Business Manager (BM)
+One designated COMMANDO Technical Support Engineer (TSE)
+Support
+Level 1 Support (Helpdesk for basic to intermediate customer issues and services)
+Customer Service, Call Back, Pre-Sales Support and Post-Sales Support
+Escalation Process
+Warranty and Replacement assistance if COMMANDO doesn't have direct local presence.
+Review Meeting
+Quarterly Business Review (QBR)
+With PartnerX, your growth path is clear, rewarding, and limitless. Step into the PartnerX advantage.
+Join today
+.
+Outperform. Outgrow. Outlast.
+Checkmate the competition—partner with COMMANDO.
+Become a Channel Partner
+View our Partners
+
+
+===== PAGE: /contact =====
+URL: https://www.commandonetworks.com/contact
+
+How can we help you?
+United States
+COMMANDO Networks Inc.
+1007 N Orange St Fl 4 Wilmington, DE 19801, USA
+info@commandonetworks.com
+view on map
+United Arab Emirates
+COMMANDO Networks LLC
+Level 36, Burj Al Salam Tower, Trade Center 1, Sheikh Zayed Road, Dubai, UAE.
+info@commandonetworks.com
+view on map
+INDIA
+COMMANDO Networks Pvt. Ltd.
+212, Building No. 2(A-3), Millennium Business Park (MBP), IT Park, MIDC Industrial Area, Mahape, Navi Mumbai - 400710, Maharashtra, INDIA.
+info@commandonetworks.com
+view on map
+Hong Kong
+COMMANDO Networks Limited
+7/F Star HSE 3, Salisbury Road, Tsim Sha Tsui, HONG KONG.
+info@commandonetworks.com
+view on map
+CHINA
+COMMANDO Networks Limited
+H2B23, 2/F, Huaqianbe, Futian District, Shenzhen, Guangdong, CHINA.
+info@commandonetworks.com
+view on map
+Partner Program
+COMMANDO Partner Program is focused to accelerate your sales, offer differentiation, unlock new revenue streams in the fast-growing technology landscape. Offer value and enjoy faster revenue generation, higher profit margins, and unmatched support. It empowers you to checkmate your competition.
+Partner Locator
+Find out COMMANDO Authorized Channel Partner near you. Channel partners offer genuine COMMANDO products and may offer more suitable financing options. You may also get access to free or low cost marketing resources. Channel partners can also save you money by negotiating discounts and avoiding pitfalls.
+Technical Support
+Our Technical Support is easy to reach, flexible and more engaging. It provides peace of mind and ensure maximum reliability and business continuity of your COMMANDO networking products. We're available on phone, email, WhatsApp and other convenient platforms and even offer remote troubleshooting assistance.
+Download Center
+Download Center provides easy central access to important resources to optimize COMMANDO product understanding and performance. You can download latest Software updates, Data Sheets, CLI and GUI Guides for all models at one place conveniently.
+Become a Partner
+Partner Advantage has been designed to maximize our partners success across business models, customer requirements and success metrics
+Apply Now
+
+
+===== PAGE: /news =====
+URL: https://www.commandonetworks.com/news
+
+News & Articles
+
+
+===== PAGE: /downloads =====
+URL: https://www.commandonetworks.com/downloads
+
+Download
+Download latest Data Sheets, CLI Guides, GUI Guides and more...
+Filters
+Filters
+Categories
+Switches
+Wireless
+Routers
+Gateways
+Accessories
+Series
+C3500
+C3000
+E3000
+IE3000
+C2000
+E2000
+E1300
+E1100
+E1000
+IE1000
+E300
+E200
+E100
+Indoor AP
+Outdoor AP
+Wireless Bridge
+Wi-Fi Adapters
+4G Routers
+Wi-Fi Routers
+Gateway
+SFP Modules
+Media Converters
+Copper Patch Cables
+RJ45 Connectors
+RJ45 Couplers
+Patch Panels
+Fiber Patch Panels
+PoE Injectors & Adapters
+Fiber Patch Cables
+DAC/AOC Cables
+PLC Splitter
+Fiber Pigtails
+Power Supplies
+Showing 124 downloads
+Products :
+COMMANDO Marshall C3500 Series Routing Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Soldier C3000 Series Routing Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Soldier E3000 Series Routing Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Soldier E1300 L2 Smart Managed Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Scout IE3000 Series Industrial Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Soldier C2000 Series Managed Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Soldier E2000 Series Managed Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Scout E300 Unmanaged Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Scout E200 Unmanaged Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Scout E100 Unmanaged Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO SF/SG Unmanaged Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO SCOUT E1100 Series Multi-Gig Unmanaged Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Scout E1000 Series Unmanaged Switches
+Data Sheet
+CLI
+GUI
+Products :
+COMMANDO Scout IE1000 Series Industrial Unmanaged Switches
+Data Sheet
+CLI
+GUI
+Products :
+AIR-WA150
+Data Sheet
+CLI
+GUI
+Products :
+AIR-WA300
+Data Sheet
+CLI
+GUI
+Products :
+AIR-WA1300
+Data Sheet
+CLI
+GUI
+Products :
+AIR-WA1800AX
+Data Sheet
+CLI
+GUI
+Products :
+AIR-AP300
+Data Sheet
+CLI
+GUI
+Products :
+AIR-CPE1K+
+Data Sheet
+CLI
+GUI
+Products :
+AIR-AP300-PRO
+Data Sheet
+CLI
+GUI
+Products :
+AIR-AP3600BE
+Data Sheet
+CLI
+GUI
+Products :
+AIR-AP1800AX
+Data Sheet
+CLI
+GUI
+Products :
+AIR-AP3000AX
+Data Sheet
+CLI
+GUI
+Products :
+AIR-APO1200
+Data Sheet
+CLI
+GUI
+Products :
+AIR-APO3000AX
+Data Sheet
+CLI
+GUI
+Products :
+AIR-WB450-1K
+Data Sheet
+CLI
+GUI
+Products :
+AIR-WB450-3K
+Data Sheet
+CLI
+GUI
+Products :
+AIR-WB900-5K
+Data Sheet
+CLI
+GUI
+Products :
+AIR-WB900-10K
+Data Sheet
+CLI
+GUI
+Products :
+AIR-WB5G-10K-HG
+Data Sheet
+CLI
+GUI
+Products :
+AIR-R1200-4G
+Data Sheet
+CLI
+GUI
+Products :
+AIR-R3000AX
+Data Sheet
+CLI
+GUI
+Products :
+MSG-150
+Data Sheet
+CLI
+GUI
+Products :
+MSG-250
+Data Sheet
+CLI
+GUI
+Products :
+MSG-400
+Data Sheet
+CLI
+GUI
+Products :
+MSG-1200
+Data Sheet
+CLI
+GUI
+Products :
+POE-INJG-48V
+Data Sheet
+CLI
+GUI
+Products :
+SFP-SM-1G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-MM-1G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-UTP-1G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-SR-10G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-LR-10G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-ER-10G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-ZR-10G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-UTP-10G
+Data Sheet
+CLI
+GUI
+Products :
+QSFP-LR4-40G
+Data Sheet
+CLI
+GUI
+Products :
+QSFP-SR4-40G
+Data Sheet
+CLI
+GUI
+Products :
+QSFP-SR4-100G
+Data Sheet
+CLI
+GUI
+Products :
+QSFP-LR4-100G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-LR-25G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-SR-25G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-LR-10G-20K
+Data Sheet
+CLI
+GUI
+Products :
+SFP-UTP-10G-80M
+Data Sheet
+CLI
+GUI
+Products :
+SFP-EX-1G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-ZX-1G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-EZX-1G
+Data Sheet
+CLI
+GUI
+Products :
+SFP-SM-1G-BD-20K
+Data Sheet
+CLI
+GUI
+Products :
+SFP-SM-1G-BD-20K-RGD
+Data Sheet
+CLI
+GUI
+Products :
+MC-GSMSF-25K
+Data Sheet
+CLI
+GUI
+Products :
+MC-GSMDF-25K
+Data Sheet
+CLI
+GUI
+Products :
+MC-1G+1SFP
+Data Sheet
+CLI
+GUI
+Products :
+MC-SMSF-3K
+Data Sheet
+CLI
+GUI
+Products :
+MC-SMSF-25K
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-0.5M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-1M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-1.5M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-2M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-3M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-5M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-10M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-20M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-50M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-305M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-CAT6UTP-0.3M
+Data Sheet
+CLI
+GUI
+Products :
+CAT6-RJ45-UTP-PT
+Data Sheet
+CLI
+GUI
+Products :
+CAT6-RJ45-UTP
+Data Sheet
+CLI
+GUI
+Products :
+CAT5-RJ45-UTP
+Data Sheet
+CLI
+GUI
+Products :
+CAT5-RJ45-UTP-PT
+Data Sheet
+CLI
+GUI
+Products :
+CAT5-RJ45-FTP
+Data Sheet
+CLI
+GUI
+Products :
+CAT5-RJ45-FTP-PT
+Data Sheet
+CLI
+GUI
+Products :
+CAT6-RJ45-FTP
+Data Sheet
+CLI
+GUI
+Products :
+CAT6-RJ45-FTP-PT
+Data Sheet
+CLI
+GUI
+Products :
+CAT7-RJ45-FTP
+Data Sheet
+CLI
+GUI
+Products :
+CP-RJ45
+Data Sheet
+CLI
+GUI
+Products :
+PP-CAT6-24
+Data Sheet
+CLI
+GUI
+Products :
+PP-CAT6-48
+Data Sheet
+CLI
+GUI
+Products :
+FPP-48FR-SCA
+Data Sheet
+CLI
+GUI
+Products :
+FPP-24FR-SCA
+Data Sheet
+CLI
+GUI
+Products :
+FPP-48F-SCA
+Data Sheet
+CLI
+GUI
+Products :
+FPP-24F-SCA
+Data Sheet
+CLI
+GUI
+Products :
+FPP-6F-SCA
+Data Sheet
+CLI
+GUI
+Products :
+CMD-POE-15.4W-AF
+Data Sheet
+CLI
+GUI
+Products :
+POE-INJ-30W
+Data Sheet
+CLI
+GUI
+Products :
+CMD-FPOE-24V-0.5A
+Data Sheet
+CLI
+GUI
+Products :
+CMD-FPOE-24V-1A
+Data Sheet
+CLI
+GUI
+Products :
+CMD-FPOE-48V-0.5A
+Data Sheet
+CLI
+GUI
+Products :
+CMD-POE-12V-1A
+Data Sheet
+CLI
+GUI
+Products :
+CMD-POE-24V-0.5A
+Data Sheet
+CLI
+GUI
+Products :
+CMD-POE-24V-1A
+Data Sheet
+CLI
+GUI
+Products :
+CMD-ADPT-12V-1.5A
+Data Sheet
+CLI
+GUI
+Products :
+CMD-ADPT-12V-1A
+Data Sheet
+CLI
+GUI
+Products :
+CMD-ADPT-12V-2.5A
+Data Sheet
+CLI
+GUI
+Products :
+CMD-ADPT-12V-5A
+Data Sheet
+CLI
+GUI
+Products :
+POE-INJM-30W
+Data Sheet
+CLI
+GUI
+Products :
+CAB-LCLC-MMD-3M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-LCLC-SMD-3M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-SCSC-SMD-3M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-LCLC-SMD-G655-3M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-SCU-LCU-1.5M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-LCU-LCU-1.5M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-DAC-10G-1M
+Data Sheet
+CLI
+GUI
+Products :
+CAB-DAC-10G-3M
+Data Sheet
+CLI
+GUI
+Products :
+PLC-1X8-SCA
+Data Sheet
+CLI
+GUI
+Products :
+PLC-1X16-SCA
+Data Sheet
+CLI
+GUI
+Products :
+PLC-1X32-SCA
+Data Sheet
+CLI
+GUI
+Products :
+PLC-1X64-SCA
+Data Sheet
+CLI
+GUI
+Products :
+PLC-2X32-LCA
+Data Sheet
+CLI
+GUI
+Products :
+PLC-2X32-SCA
+Data Sheet
+CLI
+GUI
+Products :
+PT-SM-SCA-1.5M
+Data Sheet
+CLI
+GUI
+Products :
+PT-SM-LCA-1.5M
+Data Sheet
+CLI
+GUI
+Products :
+PWR-120W-48V
+Data Sheet
+CLI
+GUI
+Products :
+PWR-150W-48V
+Data Sheet
+CLI
+GUI
+Products :
+PWR-240W-48V
+Data Sheet
+CLI
+GUI
+#
+Products
+Data Sheet
+CLI
+GUI
+1
+COMMANDO Marshall C3500 Series Routing Switches
+2
+COMMANDO Soldier C3000 Series Routing Switches
+3
+COMMANDO Soldier E3000 Series Routing Switches
+4
+COMMANDO Soldier E1300 L2 Smart Managed Switches
+5
+COMMANDO Scout IE3000 Series Industrial Switches
+6
+COMMANDO Soldier C2000 Series Managed Switches
+7
+COMMANDO Soldier E2000 Series Managed Switches
+8
+COMMANDO Scout E300 Unmanaged Switches
+9
+COMMANDO Scout E200 Unmanaged Switches
+10
+COMMANDO Scout E100 Unmanaged Switches
+11
+COMMANDO SF/SG Unmanaged Switches
+12
+COMMANDO SCOUT E1100 Series Multi-Gig Unmanaged Switches
+13
+COMMANDO Scout E1000 Series Unmanaged Switches
+14
+COMMANDO Scout IE1000 Series Industrial Unmanaged Switches
+15
+AIR-WA150
+16
+AIR-WA300
+17
+AIR-WA1300
+18
+AIR-WA1800AX
+19
+AIR-AP300
+20
+AIR-CPE1K+
+21
+AIR-AP300-PRO
+22
+AIR-AP3600BE
+23
+AIR-AP1800AX
+24
+AIR-AP3000AX
+25
+AIR-APO1200
+26
+AIR-APO3000AX
+27
+AIR-WB450-1K
+28
+AIR-WB450-3K
+29
+AIR-WB900-5K
+30
+AIR-WB900-10K
+31
+AIR-WB5G-10K-HG
+32
+AIR-R1200-4G
+33
+AIR-R3000AX
+34
+MSG-150
+35
+MSG-250
+36
+MSG-400
+37
+MSG-1200
+38
+POE-INJG-48V
+39
+SFP-SM-1G
+40
+SFP-MM-1G
+41
+SFP-UTP-1G
+42
+SFP-SR-10G
+43
+SFP-LR-10G
+44
+SFP-ER-10G
+45
+SFP-ZR-10G
+46
+SFP-UTP-10G
+47
+QSFP-LR4-40G
+48
+QSFP-SR4-40G
+49
+QSFP-SR4-100G
+50
+QSFP-LR4-100G
+51
+SFP-LR-25G
+52
+SFP-SR-25G
+53
+SFP-LR-10G-20K
+54
+SFP-UTP-10G-80M
+55
+SFP-EX-1G
+56
+SFP-ZX-1G
+57
+SFP-EZX-1G
+58
+SFP-SM-1G-BD-20K
+59
+SFP-SM-1G-BD-20K-RGD
+60
+MC-GSMSF-25K
+61
+MC-GSMDF-25K
+62
+MC-1G+1SFP
+63
+MC-SMSF-3K
+64
+MC-SMSF-25K
+65
+CAB-CAT6UTP-0.5M
+66
+CAB-CAT6UTP-1M
+67
+CAB-CAT6UTP-1.5M
+68
+CAB-CAT6UTP-2M
+69
+CAB-CAT6UTP-3M
+70
+CAB-CAT6UTP-5M
+71
+CAB-CAT6UTP-10M
+72
+CAB-CAT6UTP-20M
+73
+CAB-CAT6UTP-50M
+74
+CAB-CAT6UTP-305M
+75
+CAB-CAT6UTP-0.3M
+76
+CAT6-RJ45-UTP-PT
+77
+CAT6-RJ45-UTP
+78
+CAT5-RJ45-UTP
+79
+CAT5-RJ45-UTP-PT
+80
+CAT5-RJ45-FTP
+81
+CAT5-RJ45-FTP-PT
+82
+CAT6-RJ45-FTP
+83
+CAT6-RJ45-FTP-PT
+84
+CAT7-RJ45-FTP
+85
+CP-RJ45
+86
+PP-CAT6-24
+87
+PP-CAT6-48
+88
+FPP-48FR-SCA
+89
+FPP-24FR-SCA
+90
+FPP-48F-SCA
+91
+FPP-24F-SCA
+92
+FPP-6F-SCA
+93
+CMD-POE-15.4W-AF
+94
+POE-INJ-30W
+95
+CMD-FPOE-24V-0.5A
+96
+CMD-FPOE-24V-1A
+97
+CMD-FPOE-48V-0.5A
+98
+CMD-POE-12V-1A
+99
+CMD-POE-24V-0.5A
+100
+CMD-POE-24V-1A
+101
+CMD-ADPT-12V-1.5A
+102
+CMD-ADPT-12V-1A
+103
+CMD-ADPT-12V-2.5A
+104
+CMD-ADPT-12V-5A
+105
+POE-INJM-30W
+106
+CAB-LCLC-MMD-3M
+107
+CAB-LCLC-SMD-3M
+108
+CAB-SCSC-SMD-3M
+109
+CAB-LCLC-SMD-G655-3M
+110
+CAB-SCU-LCU-1.5M
+111
+CAB-LCU-LCU-1.5M
+112
+CAB-DAC-10G-1M
+113
+CAB-DAC-10G-3M
+114
+PLC-1X8-SCA
+115
+PLC-1X16-SCA
+116
+PLC-1X32-SCA
+117
+PLC-1X64-SCA
+118
+PLC-2X32-LCA
+119
+PLC-2X32-SCA
+120
+PT-SM-SCA-1.5M
+121
+PT-SM-LCA-1.5M
+122
+PWR-120W-48V
+123
+PWR-150W-48V
+124
+PWR-240W-48V
+
+
+===== PAGE: /portfolio =====
+URL: https://www.commandonetworks.com/portfolio
+
+Quick Portfolio
+Filters
+Categories
+Switches
+Wireless
+Routers
+Gateways
+Accessories
+Series
+C3500
+C3000
+E3000
+IE3000
+C2000
+E2000
+E1300
+E1100
+E1000
+IE1000
+E300
+E200
+E100
+Indoor AP
+Outdoor AP
+Wireless Bridge
+Wi-Fi Adapters
+4G Routers
+Wi-Fi Routers
+Gateway
+SFP Modules
+Media Converters
+Copper Patch Cables
+RJ45 Connectors
+RJ45 Couplers
+Patch Panels
+Fiber Patch Panels
+PoE Injectors & Adapters
+Fiber Patch Cables
+DAC/AOC Cables
+PLC Splitter
+Fiber Pigtails
+Power Supplies
+Select All
+Clear (
+0
+)
+View List
+Copy Selected
+Email Selected
+Download Selected
+WhatsApp Selected
+Showing 243
+All
+Clear
+Total 243
+Selected:
+0
+C3500-24X
+COMMANDO Marshall C3500 24x10G SFP+, AC+DC, Fiber Routing Switch
+C3500-24X-2Q
+COMMANDO Marshall C3500 24x10G SFP+, 2x40G QSFP+, AC+DC, Fiber Routing Switch
+C3500-24X-2C
+COMMANDO Marshall C3500 24x10G SFP+, 2x100G QSFP28, AC+DC, Fiber Routing Switch
+C3000-24GP-4X
+COMMANDO Soldier C3000 24GE Full PoE/PoE+, 4x10G SFP+, 600W, AC+DC, Routing Switch
+C3000-48GP-6X
+COMMANDO Soldier C3000 48GE Full PoE/PoE+, 6x10G SFP+, 800W, AC+DC, Routing Switch
+C3000-24SFP-4X
+COMMANDO Soldier C3000 24SFP, 4x10G SFP+ Uplinks, Fiber Routing Switch
+C3000-8X
+COMMANDO Soldier C3000 8x10G SFP+, Fiber Routing Switch
+C3000-8XG
+COMMANDO Soldier C3000 8x10GE, Routing Switch
+C3000-8XGP
+COMMANDO Soldier C3000 8x10GE Full PoE/Full PoE+, 290W, Routing Switch
+C3000-24X
+COMMANDO Soldier C3000 24x10G SFP+, AC+DC, Fiber Routing Switch
+C3000-24X-2Q
+COMMANDO Soldier C3000 24x10G SFP+, 2x40G QSFP+, AC+DC, Fiber Routing Switch
+C3000-24X-2C
+COMMANDO Soldier C3000 24x10G SFP+, 2x100G QSFP28, AC+DC, Fiber Routing Switch
+C3000-24X-6Y2C
+COMMANDO Soldier C3000 24x10G SFP+, 6x25G SFP28 2x100G QSFP28, AC+DC, Fiber Routing Switch
+C3000-24Y
+COMMANDO Soldier C3000 24x25G SFP28, AC+DC, Fiber Routing Switch
+E3000-24G-4X
+COMMANDO Soldier E3000 24GE, 4x10G SFP+ Uplinks, Routing Switch
+E3000-8X
+COMMANDO Soldier E3000 8x10G SFP+, 10G L3 Fiber Routing Switch
+E3000-8XG
+COMMANDO Soldier E3000 8x10GbE, 10GbE L3 Routing Switch
+E3000-8XGP
+COMMANDO Soldier E3000 8x10GbE Full PoE/PoE+, 150W, 10GbE L3 Routing Switch
+E3000-16X
+COMMANDO Soldier E3000 16x10G SFP+, 10G L3 Fiber Routing Switch
+E3000-16XG
+COMMANDO Soldier E3000 16x10GbE, 10GbE L3 Routing Switch
+E3000-16XGP
+COMMANDO Soldier E3000 16x10GbE Full PoE/PoE+, 260W, 10GbE L3 Routing Switch
+E3000-24X
+COMMANDO Soldier E3000 24x10G SFP+, 10G L3 Fiber Routing Switch
+E3000-24XG
+COMMANDO Soldier E3000 24x10GbE, 10GbE L3 Routing Switch
+E3000-24XGP
+COMMANDO Soldier E3000 24x10GbE Full PoE/PoE+, 450W, 10GbE L3 Routing Switch
+E3000-48G-6X
+COMMANDO Soldier E3000 48GE, 6x10G SFP+ Uplinks, Routing Switch
+E3000-24GP-4X
+COMMANDO Soldier E3000 24GE Full PoE/PoE+, 4x10G SFP+ Uplinks, 450W, Routing Switch
+E3000-48GP-6X
+COMMANDO Soldier E3000 48GE PoE/PoE+, 6x10G SFP+ Uplinks, 600W, Routing Switch
+E1300-8GP-2G
+COMMANDO Soldier E1300 8x1GbE Full PoE/PoE+, 2x1GbE Uplinks, 130W, L2 Smart Managed Switch
+E1300-4GP-2SFP
+COMMANDO Soldier E1300 4x1GbE Full PoE/PoE+, 2SFP Uplinks, 65W, L2 Smart Managed Switch
+E1300-8GP-2SFP
+COMMANDO Soldier E1300 8x1GbE Full PoE/PoE+, 2SFP Uplinks, 96W, L2 Smart Managed Switch
+E1300-16GP-2SFP
+COMMANDO Soldier E1300 16x1GbE Full PoE/PoE+, 2SFP Uplinks, 200W, L2 Smart Managed Switch
+E1300-24GP-2SFP
+COMMANDO Soldier E1300 24x1GbE Full PoE/PoE+, 2SFP Uplinks, 300W, L2 Smart Managed Switch
+E1300-4G-2SFP
+COMMANDO Soldier E1300 4x1GbE, 2SFP Uplinks, L2 Smart Managed Switch
+E1300-8G-2SFP
+COMMANDO Soldier E1300 8x1GbE, 2SFP Uplinks, L2 Smart Managed Switch
+E1300-16G-2SFP
+COMMANDO Soldier E1300 16x1GbE, 2SFP Uplinks, L2 Smart Managed Switch
+E1300-24G-2SFP
+COMMANDO Soldier E1300 24x1GbE, 2SFP Uplinks, L2 Smart Managed Switch
+E1300-4GP-2G
+COMMANDO Soldier E1300 4x1GbE Full PoE/PoE+, 2x1GbE Uplinks, 65W, L2 Smart Managed Switch
+IE3000-8GP-4X
+COMMANDO Soldier IE3000 8GE Full PoE/Full PoE+, 4SFP+ Uplinks, Routing Industrial Switch
+IE3000-24GP-4X
+COMMANDO Soldier IE3000 24GE Full PoE/Full PoE+, 4SFP+ Uplinks, Routing Industrial Switch
+IE3000-8G-4X
+COMMANDO Soldier IE3000 8x1GbE , 4x10G SFP+ Uplinks, Routing Industrial Switch
+IE3000-24G-4X
+COMMANDO Soldier IE3000 24x1GbE, 4x10G SFP+ Uplinks, Routing Industrial Switch
+C2000-16GP-8CF
+COMMANDO Soldier C2000 16GE Full PoE/PoE+, 4GE/4SFP Combo Uplinks, 290W, Managed Switch
+C2000-24GP-8CF
+COMMANDO Soldier C2000 24GE Full PoE/PoE+, 4GE/4SFP Combo, 600W, AC+DC, Managed Switch
+C2000-48GP-8CF
+COMMANDO Soldier C2000 48GE Full PoE/PoE+, 4GE/4SFP Combo, 800W, AC+DC, Managed Switch
+C2000-8SFP-4CF
+COMMANDO Soldier C2000 8SFP, 2SFP+2GE Uplinks, AC+DC, Managed Switch
+E2000-8G-4CF
+COMMANDO Soldier E2000 8GE, 2GE+2SFP Uplinks, Managed Switch
+E2000-16G-4CF
+COMMANDO Soldier E2000 16GE, 2GE+2SFP Uplinks, Managed Switch
+E2000-24G-8CF
+COMMANDO Soldier E2000 24GE, 4GE/4SFP Combo Uplinks, Managed Switch
+E2000-48G-8CF
+COMMANDO Soldier E2000 48GE, 4GE/4SFP Combo Uplinks, Managed Switch
+E2000-8GP-4CF
+COMMANDO Soldier E2000 8GE Full PoE/PoE+, 2GE+2SFP Uplinks, 150W, Managed Switch
+E2000-8GP-4SFP
+COMMANDO Soldier E2000 8GE Full PoE/PoE+, 4SFP Uplinks, 150W, Managed Switch
+E2000-16GP-4CF
+COMMANDO Soldier E2000 16GE Full PoE/PoE+, 2GE+2SFP Uplinks, 260W, Managed Switch
+E2000-24GP-8CF
+COMMANDO Soldier E2000 24GE Full PoE/PoE+, 4GE/4SFP Combo Uplinks, 450W, Managed Switch
+E2000-48GP-8CF
+COMMANDO Soldier E2000 48GE PoE/PoE+, 4GE/4SFP Combo Uplinks, 600W, Managed Switch
+E300-4GP-2G
+COMMANDO Scout E300 4GE Full PoE/PoE+, 2GE Uplinks, 65W, Unmanaged Switch
+E300-8P-2F
+COMMANDO Scout E300 8FE Full PoE/PoE+, 2FE Uplinks, 130W, Unmanaged Switch
+E300-16D
+COMMANDO Scout E300 16FE, Desktop, Unmanaged Switch
+E300-24D
+COMMANDO Scout E300 24FE, Desktop, Unmanaged Switch
+E300-5
+COMMANDO Scout E300 5FE, Unmanaged Switch
+E300-4GP-2SFP
+COMMANDO Scout E300 4GE Full PoE/PoE+, 2SFP Uplinks, 65W, Unmanaged Switch
+E300-8
+COMMANDO Scout E300 8FE, Unmanaged Switch
+E300-8P-2F-24V
+COMMANDO Scout E300 8FE 24V Full PoE, 2FE Uplinks, 96W, Unmanaged Switch
+E300-8P-2G
+COMMANDO Scout E300 8FE Full PoE/PoE+, 2GE Uplinks, 130W, Unmanaged Switch
+E300-8GP-2SFP
+COMMANDO Scout E300 8GE Full PoE/PoE+, 2SFP Uplinks, 130W, Unmanaged Switch
+E300-5G
+COMMANDO Scout E300 5GE, Unmanaged Switch
+E300-8G
+COMMANDO Scout E300 8GE, Unmanaged Switch
+E300-16
+COMMANDO Scout E300 16FE, Unmanaged Switch
+E300-8GP-2G
+COMMANDO Scout E300 8GE Full PoE/PoE+, 2GE Uplinks, 130W, Unmanaged Switch
+E300-24
+COMMANDO Scout E300 24FE, Unmanaged Switch
+E300-16G
+COMMANDO Scout E300 16GE, Unmanaged Switch
+E300-24G
+COMMANDO Scout E300 24GE, Unmanaged Switch
+E300-4P-2F
+COMMANDO Scout E300 4FE Full PoE/PoE+, 2FE Uplinks, 65W, Unmanaged Switch
+E300-4GP-2M
+COMMANDO Scout E300 4x1GbE Full PoE/PoE+, 2x1/2.5G SFP Uplinks, 65W, Multi-Gig Unmanaged Switch
+E300-8GP-2M
+COMMANDO Scout E300 8x1GbE Full PoE/PoE+, 2x1/2.5G SFP Uplinks, 130W, Multi-Gig Unmanaged Switch
+E300-4GP-2MG
+COMMANDO Scout E300 4x1GbE Full PoE/PoE+, 2x1/2.5G GbE Uplinks, 65W, Multi-Gig Unmanaged Switch
+E300-8GP-2MG
+COMMANDO Scout E300 8x1GbE Full PoE/PoE+, 2x1/2.5G GbE Uplinks, 130W, Multi-Gig Unmanaged Switch
+E200-8GP-2SFP
+COMMANDO Scout E200 8GE PoE/PoE+, 2SFP Uplinks, 96W, Unmanaged AI Switch
+E200-8GP-4CF
+COMMANDO Scout E200 8GE PoE/PoE+, 2GE+2SFP Uplinks, 96W, Unmanaged AI Switch
+E200-4GP-2CF
+COMMANDO Scout E200 4x1GbE PoE+, 1SFP+1GbE Uplinks, 65W, Unmanaged AI Switch
+E200-4P-2F
+COMMANDO Scout E200 4FE PoE/PoE+, 2FE Uplinks, 65W, Unmanaged AI Switch
+E200-8P-2F
+COMMANDO Scout E200 8FE PoE/PoE+, 2FE Uplinks, 96W, Unmanaged AI Switch
+E200-16GP-3CF
+COMMANDO Scout E200 16GE PoE/PoE+, 2GE+1SFP Uplinks, 200W, Unmanaged AI Switch
+E200-24GP-2SFP
+COMMANDO Scout E200 24GE PoE/PoE+, 2SFP Uplinks, 300W, Unmanaged AI Switch
+E200-8P-2G
+COMMANDO Scout E200 8FE PoE/PoE+, 2GE Uplinks, 96W, Unmanaged AI Switch
+E200-24P-2G
+COMMANDO Scout E200 24FE PoE/PoE+, 2GE Uplinks, 300W, Unmanaged AI Switch
+E200-16P-3CF
+COMMANDO Scout E200 16FE PoE/PoE+, 2GE+1SFP Uplinks, 200W, Unmanaged AI Switch
+E200-24GP-2G
+COMMANDO Scout E200 24GE PoE/PoE+, 2GE Uplinks, 300W, Unmanaged AI Switch
+E200-24P-2SFP
+COMMANDO Scout E200 24FE PoE/PoE+, 2SFP Uplinks, 300W, Unmanaged AI Switch
+E200-4GP-2G
+COMMANDO Scout E200 4GE PoE/PoE+, 2GE Uplinks, 65W, Unmanaged AI Switch
+E200-4GP-2SFP
+COMMANDO Scout E200 4GE PoE/PoE+, 2SFP Uplinks, 65W, Unmanaged AI Switch
+E200-8GP-2G
+COMMANDO Scout E200 8GE PoE/PoE+, 2GE Uplinks, 96W, Unmanaged AI Switch
+E100-5
+COMMANDO Scout E100 5FE, Unmanaged Switch
+E100-8
+COMMANDO Scout E100 8FE, Unmanaged Switch
+E100-5G
+COMMANDO Scout E100 5GE, Unmanaged Switch
+E100-8G
+COMMANDO Scout E100 8GE, Unmanaged Switch
+SF100-5
+COMMANDO SF100, 5FE, Unmanaged Switch
+SF100-8
+COMMANDO SF100 8FE, Unmanaged Switch
+SF100-16
+COMMANDO SF100 16FE, Unmanaged Switch
+SF100-16D
+COMMANDO SF100 16FE, Desktop, Unmanaged Switch
+SF300-4P+2FE
+COMMANDO SF300 4FE PoE+, 2FE Uplinks, Unmanaged Switch
+E1100-5M-2X
+COMMANDO Scout E1100 5x2.5G, 2x10G SFP+ Uplinks, Multi-Gig Unmanaged Switch
+E1100-8M-2X
+COMMANDO Scout E1100 8x2.5G, 2x10G SFP+ Uplinks, Multi-Gig Unmanaged Switch
+E1100-8M-2XG
+COMMANDO Scout E1100 8x2.5G, 2x10GbE Uplinks, Multi-Gig Unmanaged Switch
+E1100-16M
+COMMANDO Scout E1100 16x2.5G Multi-Gig Unmanaged Switch
+E1100-5MP-2X
+COMMANDO Scout E1100 5x2.5G Full PoE/PoE+, 2x10G SFP+ Uplinks, 75W, Multi-Gig Unmanaged Switch
+E1100-8MP-2X
+COMMANDO Scout E1100 8x2.5G Full PoE/PoE+, 2x10G SFP+ Uplinks, 150W, Multi-Gig Unmanaged Switch
+E1100-8MP-2XG
+COMMANDO Scout E1100 8x2.5G Full PoE/PoE+, 2x10GbE Uplinks, 150W, Multi-Gig Unmanaged Switch
+E1100-16MP
+COMMANDO Scout E1100 16x2.5G Full PoE/PoE+ 290W Multi-Gig Unmanaged Switch
+E1000-16P-4CF
+COMMANDO Scout E1000 16FE Full PoE/PoE+, 2GE/2SFP Combo Uplinks, 260W, Unmanaged Switch
+E1000-24P-4CF
+COMMANDO Scout E1000 24FE Full PoE/PoE+, 2GE/2SFP Combo Uplinks, 450W, Unmanaged Switch
+E1000-8GP-4CF
+COMMANDO Scout E1000 8GE Full PoE/PoE+, 2GE+2SFP Uplinks, 150W, Unmanaged Switch
+E1000-16GP-4CF
+COMMANDO Scout E1000 16GE Full PoE/PoE+, 2GE+2SFP Uplinks, 260W, Unmanaged Switch
+E1000-24GP-4CF
+COMMANDO Scout E1000 24GE Full PoE/PoE+, 2GE+2SFP Uplinks, 450W, Unmanaged Switch
+E1000-24GP-4SFP
+COMMANDO Scout E1000 24GE Full PoE/PoE+, 4SFP Uplinks, 450W, Unmanaged Switch
+E1000-8SFP-2G
+COMMANDO Scout E1000 8x1G SFP, 2GE Uplinks, Unmanaged Fiber Switch
+E1000-8X
+COMMANDO Scout E1000 8x10G SFP+, Unmanaged Fiber Switch
+IE1000-4GP-2SFP
+COMMANDO Scout IE1000 4GE Full PoE/Full PoE+, 2SFP Uplinks, Unmanaged Industrial Switch
+IE1000-8GP-2SFP
+COMMANDO Scout IE1000 8GE Full PoE/Full PoE+, 2SFP Uplinks, Unmanaged Industrial Switch
+AIR-WA150
+COMMANDO AirBULLET 150Mbps, 802.11n, Driver-Free, Wireless USB Adapter
+AIR-WA300
+COMMANDO AirBULLET 300Mbps, 802.11n, Driver-Free, Dual Internal Antenna, Wireless USB Adapter
+AIR-WA1300
+COMMANDO AirBULLET 1300Mbps, 802.11ac, Dual Band, Wireless USB 3.0 Adapter
+AIR-WA1800AX
+COMMANDO AirBULLET 1800Mbps, 802.11ax, Dual Band, Built-in FEM (PA+LNA), Wi-Fi 6 USB 3.0 Adapter
+AIRY-AP1200
+COMMANDO AirY 1200Mbps, 802.11ac Wave 2 MU-MIMO, Access Point
+AIRY-AP1500AX
+COMMANDO AirY 1500Mbps, 802.11ax OFDMA+MU-MIMO, WiFi 6 Access Point
+AIRY-AP3000AX
+COMMANDO AirY 3000Mbps, 802.11ax OFDMA+MU-MIMO, WiFi 6 Access Point
+AIRY-AP5000MB
+COMMANDO AirY 5000Mbps, 2.5G 802.11be, 4K-QAM MLO MRU, WiFi 7 Access Point
+AIRY-APO1200
+COMMANDO AirY 1200Mbps, Gigabit 802.11ac, 360° Outdoor Access Point
+AIRY-APO3000AX
+COMMANDO AirY 3000Mbps, Gigabit 802.11ax, 360° WiFi 6 Outdoor Access Point
+AIRY-APO3600MB
+COMMANDO AirY 3600Mbps, 2.5G 802.11be, 360° WiFi 7 Outdoor Access Point
+AIRY-APO3000MAX
+COMMANDO AirY 3000Mbps, 2.5G 802.11ax, IP67, 360° WiFi 6 Outdoor Access Point
+AIRY-WB300-1K
+COMMANDO AirY 300Mbps, 2.4GHz, 6dBi, 802.11n, P2P/P2MP, 1KM Wireless Bridge
+AIRY-WB900-3K
+COMMANDO AirY 900Mbps, 5.8GHz, 12dBi, 802.11ac Wave 2, P2P/P2MP, 3KM Wireless Bridge
+AIRY-WB900-5K
+COMMANDO AirY 900Mbps, 5.8GHz, 15dBi, 802.11ac Wave 2, P2P/P2MP, 5KM Wireless Bridge
+AIRY-WB900P-5K
+COMMANDO AirY 900Mbps, 5.8GHz, 14dBi, 802.11ac Wave 2, P2P/P2MP, PoE, Disp, 5KM Wireless Bridge
+AIRY-WB900-8K
+COMMANDO AirY 900Mbps, 5.8GHz, 18dBi, 802.11ac Wave 2, P2P/P2MP, 8KM Wireless Bridge
+AIR-AP300
+COMMANDO AirONE 300Mbps, 2.4GHz, 802.11n, MIMO, Indoor Access Point
+AIR-CPE1K+
+COMMANDO AirONE 1KM+, 300Mbps, 2.4GHz, 802.11n, MIMO, Wireless Bridge
+AIR-AP300-PRO
+COMMANDO AirPRO 300Mbps, 2x2 MIMO Omni Ant, Cloud Access Point
+AIR-AP3600BE
+COMMANDO AirX 3600Mbps, 802.11be, Multi-Gig 1x2.5Gbps, PoE & DC, FIT/FAT, Wi-Fi 7 Cloud Access Point
+AIR-AP1800AX
+COMMANDO AirX 1775Mbps, 802.11ax Wave 2, FIT/FAT, Wi-Fi 6 Cloud Access Point
+AIR-AP3000AX
+COMMANDO AirX 2976Mbps, 802.11ax Wave 2, FIT/FAT, Wi-Fi 6 Cloud Access Point
+AIR-APO1200
+COMMANDO AirX 1200Mbps, 2.4GHz+5GHz 802.11ac Wave 2, 128 Users, Cloud Outdoor Access Point
+AIR-APO3000AX
+COMMANDO AirX 3000Mbps, 2.4GHz+5GHz 802.11ax, 128 Users, Wi-Fi 6 Cloud Outdoor Access Point
+AIR-WB450-1K
+COMMANDO AirX 450Mbps, 5.8GHz, 8dBi, 802.11ac, P2P/P2MP, 1KM Wireless Bridge
+AIR-WB450-3K
+COMMANDO AirX 450Mbps, 5.8GHz, 12dBi, 802.11ac, P2P/P2MP, 3KM Wireless Bridge
+AIR-WB900-5K
+COMMANDO AirX 900Mbps, 5.8GHz, 14dBi, 802.11ac, P2P, 5KM Wireless Bridge
+AIR-WB900-10K
+COMMANDO AirX 900Mbps, 5.8GHz, 17dBi, MU-MIMO 802.11ac Wave 2, P2P/P2MP, 10KM Wireless Bridge
+AIR-WB5G-10K-HG
+COMMANDO AirNET 10KM, 867Mbps, 5GHz, 802.11ac, 2x16dBi High Gain Ant, 25dBm, 1GE, Wireless Bridge
+AIR-R1200-4G
+COMMANDO AirX, 1200Mbps, 60 Users, 4G LTE Wireless Router
+AIR-R3000AX
+COMMANDO AirX, 2976Mbps, 4GE, 32AP/120 Users, SD/Multi WAN, DPI/FW/VPN, Wi-Fi 6 Cloud Enterprise Router
+MSG-150
+COMMANDO RouteX, Multi-Gig 1x2.5G, 5GE, 128AP/150, Multi-Service Cloud Gateway
+MSG-250
+COMMANDO RouteX, Multi-Gig 2x2.5G, 5GE, 256AP/250, Multi-Service Cloud Gateway
+MSG-400
+COMMANDO RouteX, Multi-Gig 6x2.5G, 512AP/400, Multi-Service Cloud Gateway
+MSG-1200
+COMMANDO RouteX, Multi-Gig 4x2.5G, 2x10G SFP+, 1024AP/1200, Multi-Service Cloud Gateway
+POE-INJG-48V
+COMMANDO PowerX Gigabit, Max 30W, PoE Injector
+SFP-SM-1G
+COMMANDO FiberX 1000BASE-LX/LH, SFP, 1310nm, 20km, SMF, DDM, Multi-brand
+SFP-MM-1G
+COMMANDO FiberX 1000BASE-SX, SFP, 850nm, 550m, MMF, DDM, Multi-brand
+SFP-UTP-1G
+COMMANDO CopperX 1000BASE-T RJ45, SFP, 100m, CAT5/6, Multi-brand
+SFP-SR-10G
+COMMANDO FiberX 10GBASE-SR, SFP+, 850nm, 300m, MMF, DDM, Multi-brand
+SFP-LR-10G
+COMMANDO FiberX 10GBASE-LR, SFP+, 1310nm, 10km, SMF, DDM, Multi-brand
+SFP-ER-10G
+COMMANDO FiberX 10GBASE-ER, SFP+, 1550nm, 40km, SMF, DDM, Multi-brand
+SFP-ZR-10G
+COMMANDO FiberX 10GBASE-ZR/ZW, SFP+, 1550nm, 80km, SMF, DDM, Multi-brand
+SFP-UTP-10G
+COMMANDO CopperX 10GBASE-T RJ45, SFP+, 30m, CAT 6a/7, Multi-brand
+QSFP-LR4-40G
+COMMANDO FiberX 40GBASE-LR4, QSFP+, 1310nm, 10km, SMF, DDM, Multi-brand
+QSFP-SR4-40G
+COMMANDO FiberX 40GBASE-SR4, QSFP+, 850nm, 100m, MMF, DDM, Multi-brand
+QSFP-SR4-100G
+COMMANDO FiberX 100GBASE-SR4, QSFP28+, 850nm, 100m, MTP/MPO-12, MMF, DDM, Multi-brand
+QSFP-LR4-100G
+COMMANDO FiberX 100GBASE-LR4, QSFP28+, 1310nm, 10km, SMF, DDM, Multi-brand
+SFP-LR-25G
+COMMANDO FiberX 10/25GBASE-LR, SFP28, 1310nm, 10km, SMF, DDM, Multi-brand
+SFP-SR-25G
+COMMANDO FiberX 25GBASE-SR, SFP28, 850nm, 70/100m, OM3/4 MMF, DDM, Multi-brand
+SFP-LR-10G-20K
+COMMANDO FiberX 10GBASE-LR, SFP+, 1310nm, 20km, SMF, DDM, Multi-brand
+SFP-UTP-10G-80M
+COMMANDO CopperX 10GBASE-T RJ45, SFP+, 80m, CAT 6a/7, Multi-brand
+SFP-EX-1G
+COMMANDO FiberX 1000BASE-EX, SFP, 1310nm, 40km, SMF, DDM, Multi-brand
+SFP-ZX-1G
+COMMANDO FiberX 1000BASE-ZX, SFP, 1550nm, 80km, SMF, DDM, Multi-brand
+SFP-EZX-1G
+COMMANDO FiberX 1000BASE-EZX, SFP, 1550nm, 120km, SMF, DDM, Multi-brand
+SFP-SM-1G-BD-20K
+COMMANDO FiberX GE/FC BiDi SFP, SM, Single LC, Tx1490/Rx1310nm, 20km, DDM, Multi-brand
+SFP-SM-1G-BD-20K-RGD
+COMMANDO FiberX GE/FC BiDi SFP, SM, Single LC, Tx1490/Rx1310nm, 20km, Ruggedized, DDM, Multi-brand
+MC-GSMSF-25K
+COMMANDO FiberX 1GE, Single Mode, Single Fiber, 1310/1550nm, 25KM, MC
+MC-GSMDF-25K
+COMMANDO FiberX 1GE, Single Mode, Dual Fiber, 1310nm, 25KM, MC
+MC-1G+1SFP
+COMMANDO FiberX 1GE, SFP, 1GBASE-LR/1GBASE-SR, Media Converter
+MC-SMSF-3K
+COMMANDO FiberX 1FE, NCF, Single Mode, Single Fiber, 1310/1550nm, 3KM, MC
+MC-SMSF-25K
+COMMANDO FiberX 1FE, NCF, Single Mode, Single Fiber, 1310/1550nm, 25KM, MC
+CAB-CAT6UTP-0.5M
+COMMANDO CopperX Cat6 UTP 24AWG, Patch Cable, 0.5M
+CAB-CAT6UTP-1M
+COMMANDO CopperX Cat6 Pure Copper UTP 24AWG, Patch Cable, 1M
+CAB-CAT6UTP-1.5M
+COMMANDO CopperX Cat6 Pure Copper UTP 24AWG, Patch Cable, 1.5M
+CAB-CAT6UTP-2M
+COMMANDO CopperX Cat6 Pure Copper UTP 24AWG, Patch Cable, 2M
+CAB-CAT6UTP-3M
+COMMANDO CopperX Cat6 Pure Copper UTP 24AWG, Patch Cable, 3M
+CAB-CAT6UTP-5M
+COMMANDO CopperX Cat6 Pure Copper UTP 24AWG, Patch Cable, 5M
+CAB-CAT6UTP-10M
+COMMANDO CopperX Cat6 Pure Copper UTP 24AWG, Patch Cable, 10M
+CAB-CAT6UTP-20M
+COMMANDO CopperX Cat6 Pure Copper UTP 24AWG, Patch Cable, 20M
+CAB-CAT6UTP-50M
+COMMANDO CopperX Cat6 Pure Copper UTP 24AWG, Patch Cable, 50M
+CAB-CAT6UTP-15M
+COMMANDO CopperX Cat6 Pure Copper UTP 23AWG, Patch Cable, 15M
+CAB-CAT6UTP-305M
+COMMANDO CopperX Cat6 Pure Copper UTP 24AWG, Cable, 305M
+CAB-CAT6UTP-305M-V2
+COMMANDO CopperX Cat6 Pure Copper UTP 23AWG, V2, Cable, 305M
+CAB-CAT6UTP-0.3M
+COMMANDO CopperX Cat6 UTP 24AWG, Patch Cable, 0.3M
+CAT6-RJ45-UTP-PT
+COMMANDO CrystalX Cat6 RJ45 Unshielded Pass-Through Connector, 100/Pack
+CAT6-RJ45-UTP
+COMMANDO CrystalX Cat6 RJ45 Unshielded Connector, 100/Pack
+CAT5-RJ45-UTP
+COMMANDO CrystalX Cat5 RJ45 Unshielded Connector, 100/Pack
+CAT5-RJ45-UTP-PT
+COMMANDO CrystalX Cat5 RJ45 Unshielded Pass-Through Connector, 100/Pack
+CAT5-RJ45-FTP
+COMMANDO CrystalX Cat5 RJ45 Shielded Connector, 100/Pack
+CAT5-RJ45-FTP-PT
+COMMANDO CrystalX Cat5 RJ45 Shielded Pass-Through Connector, 100/Pack
+CAT6-RJ45-FTP
+COMMANDO CrystalX Cat6 RJ45 Shielded Connector, 100/Pack
+CAT6-RJ45-FTP-PT
+COMMANDO CrystalX Cat6 RJ45 Shielded Pass-Through Connector, 100/Pack
+CAT7-RJ45-FTP
+COMMANDO CrystalX Cat7 RJ45 Shielded Pass-Through Connector, 100/Pack
+CP-RJ45
+COMMANDO MetalX Shielded 10G Direct-Through RJ45 Coupler
+PP-CAT6-24
+COMMANDO MetalX Cat6 1U 24-Port UTP Patch Panel
+PP-CAT6-48
+COMMANDO MetalX Cat6 1U 48-Port UTP Patch Panel
+FPP-48FR-SCA
+COMMANDO FiberX 48-Port SC/APC Single Mode Fiber Patch Panel, Fully Loaded w/ Rail – 1U
+FPP-24FR-SCA
+COMMANDO FiberX 24-Port SC/APC Single Mode Fiber Patch Panel, Fully Loaded w/ Rail – 1U
+FPP-48F-SCA
+COMMANDO FiberX 48-Port SC/APC Single Mode Fiber Patch Panel, Fully Loaded – 1U
+FPP-24F-SCA
+COMMANDO FiberX 24-Port SC/APC Single Mode Fiber Patch Panel, Fully Loaded – 1U
+FPP-6F-SCA
+COMMANDO FiberX 6-Port SC/APC Single Mode Fiber Patch Panel, Fully Loaded – 1U
+CMD-POE-15.4W-AF
+COMMANDO LightningPOWER 10/100/1000Mbps IEEE 802.3af, Max 15.4W, Active PoE Injector
+POE-INJ-30W
+COMMANDO PowerX Gigabit IEEE 802.3af/at, Max 30W, Active PoE Injector
+CMD-FPOE-24V-0.5A
+COMMANDO LightningPOWER 10/100Mbps, Max Power 24VDC @ 0.5A, PoE Injector
+CMD-FPOE-24V-1A
+COMMANDO LightningPOWER 10/100Mbps, Max Power 24VDC @ 1A, PoE Injector
+CMD-FPOE-48V-0.5A
+COMMANDO LightningPOWER 10/100Mbps, Max Power 48VDC @ 0.5A, PoE Injector
+CMD-POE-12V-1A
+COMMANDO LightningPOWER 10/100/1000Mbps, Max Power 12VDC @ 1A, PoE Injector
+CMD-POE-24V-0.5A
+COMMANDO LightningPOWER 10/100/1000Mbps, Max Power 24VDC @ 0.5A, PoE Injector
+CMD-POE-24V-1A
+COMMANDO LightningPOWER 10/100/1000Mbps, Max Power 24VDC @ 1A, PoE Injector
+CMD-ADPT-12V-1.5A
+COMMANDO LightningPOWER A30 Series, Max Power 12VDC @ 1.5A, Adapter
+CMD-ADPT-12V-1A
+COMMANDO LightningPOWER A15 Series, Max Power 12VDC @ 1A , Adapter
+CMD-ADPT-12V-2.5A
+COMMANDO LightningPOWER A30 Series, Max Power 12VDC @ 2.5A, Adapter
+CMD-ADPT-12V-5A
+COMMANDO LightningPOWER A60 Series, Max Power 12VDC @ 5A, Adapter`
+POE-INJM-30W
+COMMANDO PowerX Multi-Gig 2.5G IEEE 802.3af/at, Max 30W, Active PoE Injector
+CAB-LCLC-MMD-3M
+COMMANDO FiberX LC/UPC-LC/UPC, Multi Mode, Duplex, 2.0mm, 62.5/125 LSZH, 3M Fiber Patch Cord
+CAB-LCLC-SMD-3M
+COMMANDO FiberX LC/UPC-LC/UPC, Single Mode, Duplex, 2.0mm, 9/125 LSZH, 3M Fiber Patch Cord
+CAB-SCSC-SMD-3M
+COMMANDO FiberX SC/UPC-SC/UPC, Single Mode, Duplex, 2.0mm, 9/125 LSZH, 3M Fiber Patch Cord
+CAB-LCLC-SMD-G655-3M
+COMMANDO FiberX LC/UPC-LC/UPC, Single Mode, Duplex, 2.0mm, G655 LSZH, 3M Fiber Patch Cord
+CAB-SCU-LCU-1.5M
+COMMANDO FiberX Single Mode Patch Cord, SC/UPC to LC/UPC, 1.5m
+CAB-LCU-LCU-1.5M
+COMMANDO FiberX Single Mode Patch Cord, LC/UPC to LC/UPC, 1.5m
+CAB-DAC-10G-1M
+COMMANDO FiberX 10G SFP+, 10G SFP+ to 10G SFP+, 30AWG, DAC Cable, 1M
+CAB-DAC-10G-3M
+COMMANDO FiberX 10G SFP+, 10G SFP+ to 10G SFP+, 30AWG, DAC Cable, 3M
+PLC-1X8-SCA
+COMMANDO FiberX 1x8, SC/APC, 1.5m Pigtail, ABS Module, PLC Fiber Optic Splitter
+PLC-1X16-SCA
+COMMANDO FiberX 1x16, SC/APC, 1.5m Pigtail, ABS Module, PLC Fiber Optic Splitter
+PLC-1X32-SCA
+COMMANDO FiberX 1x32, SC/APC, 1.5m Pigtail, ABS Module, PLC Fiber Optic Splitter
+PLC-1X64-SCA
+COMMANDO FiberX 1x64, SC/APC, 1.5m Pigtail, ABS Module, PLC Fiber Optic Splitter
+PLC-2X32-LCA
+COMMANDO FiberX 2x32, LC/APC, 1m Pigtail, ABS Module, PLC Fiber Optic Splitter
+PLC-2X32-SCA
+COMMANDO FiberX 2x32, SC/APC, 1m Pigtail, ABS Module, PLC Fiber Optic Splitter
+PT-SM-SCA-1.5M
+COMMANDO FiberX Single Mode, Fiber Optic Pigtail, SC/APC 1.5m
+PT-SM-LCA-1.5M
+COMMANDO FiberX Single Mode, Fiber Optic Pigtail, LC/APC 1.5m
+PWR-120W-48V
+COMMANDO PowerX 120W, 48V DIN Rail AC to DC Power Supply for Industrial Switch
+PWR-150W-48V
+COMMANDO PowerX 150W, 48V DIN Rail AC to DC Power Supply for Industrial Switch
+PWR-240W-48V
+COMMANDO PowerX 240W, 48V DIN Rail AC to DC Power Supply for Industrial Switch
