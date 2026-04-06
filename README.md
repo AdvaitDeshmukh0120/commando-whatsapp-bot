@@ -241,7 +241,6 @@ User 1: What about firewall features?       → Bot remembers User 1's MSG-400 c
 | Command | Action |
 |---------|--------|
 | `hi` / `hello` | Welcome message |
-| `help` | Show example questions |
 | `reset` | Clear conversation history |
 
 ---
