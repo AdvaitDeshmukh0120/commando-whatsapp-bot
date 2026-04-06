@@ -49,8 +49,8 @@ A fully functional AI-powered WhatsApp chatbot built using **Retrieval-Augmented
                     │  • product_overview.txt  │  ← Complete product catalog
                     │  • detailed_product      │  ← Deep specs for key products
                     │    _specs.txt            │
-                    │  • faq_direct            │  ← Curated Q&A for accuracy
-                    │    _answers.txt          │
+                    │  •  confusionclear.txt   │  ← Curated Q&A for accuracy
+                    │  •  website_data.txt.    │  ← Raw website data
                     └─────────────────────────┘
 ```
 
@@ -112,6 +112,7 @@ commando-whatsapp-bot/
 │   ├── product_overview.txt           # Complete product catalog + recommendations
 │   ├── detailed_product_specs.txt     # Deep specs for key products
 │   ├── confusionclear.txt             # for accuracy
+│   ├── website_data.txt               # raw data
 │   └── faiss_index/                   # Generated FAISS vector store
 │
 ├── requirements.txt           # Python dependencies
