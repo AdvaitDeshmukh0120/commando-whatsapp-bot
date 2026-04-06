@@ -49,7 +49,7 @@ A fully functional AI-powered WhatsApp chatbot built using **Retrieval-Augmented
                     │  • product_overview.txt  │  ← Complete product catalog
                     │  • detailed_product      │  ← Deep specs for key products
                     │    _specs.txt            │
-                    │  •  confusionclear.txt   │  ← Curated Q&A for accuracy
+                    │  •  confusionclear.txt   │  ← Curated data for accuracy
                     │  •  website_data.txt.    │  ← Raw website data
                     └─────────────────────────┘
 ```
