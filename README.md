@@ -60,7 +60,7 @@ A fully functional AI-powered WhatsApp chatbot built using **Retrieval-Augmented
 
 | Layer | Technology | Why Chosen |
 |-------|-----------|------------|
-| Language | Python 3.9+ | Industry standard for AI/ML |
+| Language | Python 3.11 | Industry standard for AI/ML |
 | RAG Framework | LangChain | Best-in-class RAG orchestration |
 | Vector Database | FAISS (CPU) | Free, fast, local — no cloud dependency |
 | Embeddings | sentence-transformers/all-MiniLM-L6-v2 | Lightweight, runs locally, free |
