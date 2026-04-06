@@ -111,7 +111,7 @@ commando-whatsapp-bot/
 │   ├── commando_knowledge_base.txt    # Scraped website content
 │   ├── product_overview.txt           # Complete product catalog + recommendations
 │   ├── detailed_product_specs.txt     # Deep specs for key products
-│   ├── confusionclear.txt             # for accuracy
+│   ├── confusionclear.txt             # Curated for for accuracy
 │   ├── website_data.txt               # raw data
 │   └── faiss_index/                   # Generated FAISS vector store
 │
